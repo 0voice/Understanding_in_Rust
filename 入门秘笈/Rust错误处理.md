@@ -41,6 +41,7 @@ fn main()
 ```
 
 执行上面范例程式码，得到以下结果：
+
 ![img](https://tw511.com/upload/images/201910/20191014013935394.png)
 
 在上面的例子中，因此，在执行时`x` `false` `assert!` `assert!` `panic!`
