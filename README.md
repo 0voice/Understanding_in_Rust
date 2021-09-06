@@ -59,7 +59,7 @@ Rust 是唯一一个下面所有框框都打勾的语言：
 
 # 🏝 环境搭建
 
-安装及工具：https://www.rust-lang.org/zh-CN/learn/get-started
+**安装及工具：https://www.rust-lang.org/zh-CN/learn/get-started**
 
 # 📕 入门秘笈
 # 📖 书籍
