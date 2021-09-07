@@ -192,7 +192,7 @@ Rust 验证研讨会 2021 |
 - [Weld](https://github.com/serayuzgur/weld) — 全假 REST API 生成器 
 - [wezterm](https://github.com/wez/wezterm) — 一个gpu加速的跨平台终端模拟器和多路复用器
   
-## 音频和音乐技术
+### 音频和音乐技术
 
 - [enginesound](https://github.com/DasEtwas/enginesound) — 用于按程序生成半逼真引擎声音的 GUI 和命令行应用程序. 具有深度配置、可变采样率和频率分析窗口.
 - [indiscipline/zrtstr](https://github.com/indiscipline/zrtstr) — 用于检查立体声 wav 文件是否为仿立体声（即具有相同通道）并将此类文件转换为单声道的命令行实用程序.
@@ -204,7 +204,7 @@ Rust 验证研讨会 2021 |
 - [Spotify TUI](https://github.com/Rigellute/spotify-tui) — 一个用 Rust 编写的用于终端的 Spotify 客户端. 
 - [Spotifyd](https://github.com/Spotifyd/spotifyd) — 作为 UNIX 守护程序运行的开源 Spotify 客户端. 
   
-## 加密数字货币
+### 加密数字货币
 
 - [Bitcoin Satoshi's Vision](https://github.com/brentongunning/rust-sv) — 用于处理比特币 SV 的 Rust 库.
 - [cardano-cli](https://github.com/input-output-hk/cardano-cli) — 卡尔达诺命令行界面 (CLI)
@@ -236,7 +236,7 @@ Rust 验证研讨会 2021 |
 - [zcash](https://github.com/zcash/zcash) — Zcash 是 “Zerocash” 协议的实现.
 - [YeeCo yeeroot](https://github.com/yeeco/yeeroot) — YeeCo yeeroot 是一个无需许可、安全、高性能和可扩展的公共区块链平台，由基于 Rust 编写的 PoW 共识的全分片技术提供支持
   
-## 数据库
+### 数据库
 
 - [indradb](https://crates.io/crates/indradb) — 基于 Rust 的图形数据库 
 - [Materialize](https://github.com/MaterializeInc/materialize) - 由 Timely Dataflow 提供支持的流式 SQL 数据库：heavy_dollar_sign
@@ -250,7 +250,7 @@ Rust 验证研讨会 2021 |
 - [sled](https://crates.io/crates/sled) —（测试版）现代嵌入式数据库
 - [TerminusDB](https://github.com/terminusdb/terminusdb-store) - 开源图形数据库和文档存储
   
-## 模拟器
+### 模拟器
 
 - [kondrak/rust64](https://github.com/kondrak/rust64) 
 - [Ruffle](https://github.com/ruffle-rs/ruffle) — Ruffle 是用 Rust 编程语言编写的 Adobe Flash Player 模拟器. Ruffle 使用 WebAssembly 面向桌面和 Web.
@@ -269,7 +269,7 @@ Rust 验证研讨会 2021 |
 - [emu-rs/rustual-boy](https://github.com/emu-rs/rustual-boy) 
 - [mohanson/i8080](https://github.com/mohanson/i8080) — Rust 的 Intel 8080 cpu 模拟器 
   
-## 游戏
+### 游戏
 
 - [lifthrasiir/angolmois-rust](https://github.com/lifthrasiir/angolmois-rust) — 一款支持 BMS 格式的极简音乐视频游戏
 - [citybound](https://github.com/citybound/citybound) - 你应得的城市模拟
@@ -289,7 +289,7 @@ Rust 验证研讨会 2021 |
 - [Zone of Control](https://github.com/ozkriff/zoc) — 回合制六角策略游戏 
 - [phantomion/snake_game](https://github.com/phantomion/snake_game) - 用 Rust 编写的简单终端蛇游戏.
 
-## 图形处理
+### 图形处理
 
 - [Limeth/euclider](https://github.com/Limeth/euclider) — 实时 4D CPU 光线追踪器
 - [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) — 一个 SVG 渲染库.
@@ -299,7 +299,7 @@ Rust 验证研讨会 2021 |
 - [turnage/valora](https://crates.io/crates/valora) — 生成美术图书馆 
 - [mikigraf/Image-Processing-CLI-in-Rust](https://github.com/mikigraf/Image-Processing-CLI-in-Rust) — 用于处理图像、生成直方图的 CLI. 
 
-## 工业自动化
+### 工业自动化
 
 - [locka99/opcua](https://github.com/locka99/opcua) —  [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) 图书馆.
 - [slowtec/tokio-modbus](https://github.com/slowtec/tokio-modbus) - 一种 [tokio](https://tokio.rs/)-based [modbus](https://modbus.org/) 图书馆. 
