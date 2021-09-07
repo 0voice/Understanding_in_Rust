@@ -125,11 +125,15 @@ Rust 是唯一一个下面所有框框都打勾的语言：
 
 # 📖 书籍
   
-[《Rust编程之道》](https://www.aliyundrive.com/s/4vMVLw3CgzH)<br>
-[《深入浅出Rust》](https://www.aliyundrive.com/s/2HdYEootmWH)<br>  
-[《Rust权威指南》](https://www.aliyundrive.com/s/wUXm3x7fCnW)<br>
-[《Rust 程序设计语言》](https://www.aliyundrive.com/s/UNQm1AvMQTR)<br>   
-[《精通Rust(第2版)》](https://www.aliyundrive.com/s/mgzphhMbbX1)<br>  
+[《Rust编程之道》](https://www.aliyundrive.com/s/4vMVLw3CgzH)
+  
+[《深入浅出Rust》](https://www.aliyundrive.com/s/2HdYEootmWH)
+  
+[《Rust权威指南》](https://www.aliyundrive.com/s/wUXm3x7fCnW)
+  
+[《Rust 程序设计语言》](https://www.aliyundrive.com/s/UNQm1AvMQTR)
+  
+[《精通Rust(第2版)》](https://www.aliyundrive.com/s/mgzphhMbbX1)
    
   
 # 📑 大牛文章
