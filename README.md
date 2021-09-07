@@ -321,12 +321,18 @@ Rust Linz 2021 |
 - [slowtec/tokio-modbus](https://github.com/slowtec/tokio-modbus) - 一种 [tokio](https://tokio.rs/)-based [modbus](https://modbus.org/) 图书馆. 
 - [BiancoRoyal/modbus-iiot-rust](https://github.com/BiancoRoyal/modbus-iiot-rust) — 纯锈 [modbus](https://modbus.org/) 没有或更少依赖的库.
   
-  
-  
-  
-  
-  
-  
-  
+
 # ✈ 杂货铺
+  
+### 合辑加实战
+- Rust 最大中文社区论坛：https://rustcc.cn/
+- 小众中文社区的翻译资料/论坛：https://learnku.com/rust
+- 2021 年去哪学 Rust：https://loige.co/where-to-go-to-learn-rust-in-2021/
+- Rust Cheat Sheet（Rust语法备忘单）：https://cheats.rs/
+- Rust 中文书架与资讯：https://budshome.com/ | https://blog.budshome.com/
+- 简要而基础的 Rust 知识（适合在 Rust Book 阶段当作补充材料）：https://learning-rust.github.io/
+- 微软发布的 Rust 新手教程：https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
+- Rust-leetcodes刷题：https://stevenbai.top/rust-leetcode/
+- Rust by Example 通过例子学 Rust：https://doc.rust-lang.org/rust-by-example/index.html
+  
 # 🐂 大牛一览表
