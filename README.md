@@ -143,5 +143,46 @@ Rust 是唯一一个下面所有框框都打勾的语言：
 # 📰 论文
 # 💽 视频
 # 🏗 开源框架
+  
+## 应用程序
+
+- [alacritty](https://github.com/alacritty/alacritty) — 跨平台、GPU 增强的终端模拟器
+- [AnderEnder/s3find-rs](https://github.com/AnderEnder/s3find-rs) — 用于遍历 Amazon S3 层次结构的命令行实用程序，类似于 Amazon S3 的 find
+- [andschwa/rust-genetic-algorithm](https://github.com/andschwa/rust-genetic-algorithm) — 一种用于学术基准问题的遗传算法
+- [asm-cli-rust](https://github.com/cch123/asm-cli-rust) — 一个用 Rust 编写的交互式程序集外壳.
+- [ballista](https://github.com/ballista-compute/ballista) — 使用 Rust、Apache Arrow 和 Kubernetes 的分布式计算平台的 PoC！
+- [cloudflare/boringtun](https://github.com/cloudflare/boringtun) — 用户空间 WireGuard VPN 实现
+- [darrint/device-blocker](https://github.com/darrint/device-blocker) — 通过阻止家庭 Wifi 路由器上的互联网访问来限制儿童各种移动设备的屏幕时间.
+- [denoland/deno](https://github.com/denoland/deno) — 使用 V8、Rust 和 Tokio 构建的安全 JavaScript/TypeScript 运行时
+- [dlecan/generic-dns-update](https://github.com/dlecan/generic-dns-update) — 使用您的 IP 地址更新 DNS 区域文件的工具
+- [Factotum](https://github.com/snowplow/factotum) — [A system to programmatically run data pipelines](https://snowplowanalytics.com/blog/2016/04/09/introducing-factotum-data-pipeline-runner/) 
+- [fcsonline/drill](https://github.com/fcsonline/drill) — 受 Ansible 语法启发的 HTTP 负载测试应用程序
+- [Fractalide](https://github.com/fractalide/fractalide) — 简单的 Rust 微服务
+- [habitat](https://community.chef.io/tools/chef-habitat) — 一个工具 [Chef](https://www.chef.io/) 构建、部署和管理应用程序.
+- [Herd](https://github.com/imjacobclark/Herd) — 一个实验性的 HTTP 负载测试应用程序
+- [intecture/api](https://github.com/intecture/api) — API 驱动的服务器管理和配置工具
+- [ivanceras/diwata](https://github.com/ivanceras/diwata) — postgresql 的数据库管理工具
+- [jedisct1/flowgger](https://github.com/awslabs/flowgger) — 快速、简单和轻量级的数据收集器
+- [kbknapp/docli](https://github.com/kbknapp/docli-rs) — 用于管理 DigitalOcean 基础设施的命令行实用程序 
+- [kytan](https://github.com/changlan/kytan) — 高性能点对点 VPN
+- [limonite](https://crates.io/crates/limonite) — 静态博客 / 网站生成器 
+- [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) — Kubernetes 的超轻服务网格.
+- [MaidSafe](https://maidsafe.net/) — 一个去中心化的平台.
+- [mdBook](https://crates.io/crates/mdbook) — 从 Markdown 文件创建书籍的命令行实用程序 
+- [nicohman/eidolon](https://github.com/nicohman/eidolon) — 适用于 linux 和 macosx 的无 Steam 和 drm 游戏注册表和启动器
+- [notty](https://github.com/withoutboats/notty) — 一种新型终端
+- [Pijul](https://pijul.org/) — 基于补丁的分布式版本控制系统
+- [rsign](https://crates.io/crates/rsign) — 一个简单的命令行工具，用于生成 / 签署 / 验证旨在与 Minisign 兼容的数字签名 
+- [Rudr](https://github.com/oam-dev/rudr) — Kubernetes 实现 [Open Application Model](https://oam.dev/) 规格
+- [rx](https://github.com/cloudhead/rx) — 受 Vi 启发的现代像素艺术编辑器
+- [Sandstorm Collections App](https://github.com/sandstorm-io/collections-app)
+- [Servo](https://github.com/servo/servo) — 原型 Web 浏览器引擎
+- [tiny](https://github.com/osa1/tiny) — 终端 IRC 客户端
+- [trust-dns](https://crates.io/crates/trust-dns) — DNS 服务器
+- [updns](https://github.com/wyhaya/updns) — DNS 代理工具
+- [Weld](https://github.com/serayuzgur/weld) — 全假 REST API 生成器 
+- [wezterm](https://github.com/wez/wezterm) — 一个gpu加速的跨平台终端模拟器和多路复用器
+  
+  
 # ✈ 国外项目
 # 🐂 大牛一览表
