@@ -324,7 +324,6 @@ Rust Linz 2021 |
 
 # ✈ 杂货铺
   
-### 合辑加实战
 - Rust 最大中文社区论坛：https://rustcc.cn/
 - 小众中文社区的翻译资料/论坛：https://learnku.com/rust
 - 2021 年去哪学 Rust：https://loige.co/where-to-go-to-learn-rust-in-2021/
