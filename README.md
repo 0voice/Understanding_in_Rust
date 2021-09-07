@@ -133,6 +133,24 @@ Rust 是唯一一个下面所有框框都打勾的语言：
   
 # 📰 论文
 # 💽 视频
+  
+Rust 验证研讨会 2021 | 
+:------:|
+[Peeking at compiler-internal data (for fun and profit)]()|
+[Ferrite- A Rust EDSL for Message-passing Protocol Verification]()|
+[Verifying that Rust programs don't crash]()|
+[crux-mir- Symbolic testing for Rust]()|
+[RustBelt- A Quick Dive Into the Abyss]()|
+[Rustv- Semi-automatic Verification of Unsafe Rust Programs]()|  
+[Polonius]()|
+[Towards Automatic Verification of Unsafe Rust with Constrained Horn Solvers]()|
+[Rust interest in safety- and mission-critical environments]()|  
+[Prusti – Deductive Verification for Rust]()|
+[Creusot- A prototype tool for verification of Rust software]()|
+[hacspec_ succinct, executable, verifiable specifications for high-assurance cryptography]()|  
+[Leveraging Compiler Intermediate Representation for Multi- and Cross-Language Verification]()|
+
+
 # 🏗 开源框架
   
 ## 应用程序
