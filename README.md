@@ -11,7 +11,7 @@
   
    [🏝<br>&nbsp;&nbsp;&nbsp; &nbsp;环境搭建&nbsp;&nbsp;&nbsp;&nbsp; ](https://github.com/0voice/Understanding_in_Rust#-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA)  |[📕<br>&nbsp;&nbsp;&nbsp; 入门秘笈&nbsp;&nbsp;&nbsp; ](https://github.com/0voice/Understanding_in_Rust#-%E5%85%A5%E9%97%A8%E7%A7%98%E7%AC%88-pdf%E6%A1%A3%E4%B8%8B%E8%BD%BD)|  [📖<br>&nbsp;&nbsp;&nbsp; 电子书籍&nbsp;&nbsp;&nbsp; ](https://github.com/0voice/Understanding_in_Rust#-%E4%B9%A6%E7%B1%8D)
 :-------: | :-------: | :---------:
- **[📑<br>大牛文章](https://github.com/0voice/Understanding_in_Rust#-%E5%A4%A7%E7%89%9B%E6%96%87%E7%AB%A0)**  |  **[📰<br>论文](https://github.com/0voice/Understanding_in_Rust#-%E8%AE%BA%E6%96%87)**|  **[✈<br> 国外项目](https://github.com/0voice/Understanding_in_Rust#-%E5%9B%BD%E5%A4%96%E9%A1%B9%E7%9B%AE)**
+ **[📑<br>大牛文章](https://github.com/0voice/Understanding_in_Rust#-%E5%A4%A7%E7%89%9B%E6%96%87%E7%AB%A0)**  |  **[📰<br>论文](https://github.com/0voice/Understanding_in_Rust#-%E8%AE%BA%E6%96%87)**|  **[✈<br> 杂货铺](https://github.com/0voice/Understanding_in_Rust/blob/main/README.md#-%E6%9D%82%E8%B4%A7%E9%93%BA)**
 **[💽<br>视频](https://github.com/0voice/Understanding_in_Rust#-%E8%A7%86%E9%A2%91)** | **[🏗<br>开源框架](https://github.com/0voice/Understanding_in_Rust#-%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6)** | **[🐂<br>大牛一览表](https://github.com/0voice/Understanding_in_Rust#-%E5%A4%A7%E7%89%9B%E4%B8%80%E8%A7%88%E8%A1%A8)**
   
 <br>
