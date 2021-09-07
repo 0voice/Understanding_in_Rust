@@ -200,5 +200,5 @@ Rust 是唯一一个下面所有框框都打勾的语言：
 - [wezterm](https://github.com/wez/wezterm) — 一个gpu加速的跨平台终端模拟器和多路复用器
   
   
-# ✈ 国外项目
+# ✈ 杂货铺
 # 🐂 大牛一览表
