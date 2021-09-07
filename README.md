@@ -192,6 +192,125 @@ Rust 验证研讨会 2021 |
 - [Weld](https://github.com/serayuzgur/weld) — 全假 REST API 生成器 
 - [wezterm](https://github.com/wez/wezterm) — 一个gpu加速的跨平台终端模拟器和多路复用器
   
+## 音频和音乐技术
+
+- [enginesound](https://github.com/DasEtwas/enginesound) — 用于按程序生成半逼真引擎声音的 GUI 和命令行应用程序. 具有深度配置、可变采样率和频率分析窗口.
+- [indiscipline/zrtstr](https://github.com/indiscipline/zrtstr) — 用于检查立体声 wav 文件是否为仿立体声（即具有相同通道）并将此类文件转换为单声道的命令行实用程序.
+- [Lyriek](https://github.com/bartwillems/lyriek) — 一个多线程 GTK 3 应用程序，用于获取当前播放歌曲的歌词.
+- [Phate6660/musinfo](https://github.com/Phate6660/musinfo) — 从 mpd 查询音乐信息并将其显示在通知中的程序.
+- [Phate6660/rsmpc](https://github.com/Phate6660/rsmpc) — mpc 的实现，但不是直接实现，因为会有一些差异.
+- [Phate6660/rsmpc](https://github.com/Phate6660/rsmpc-gui) — 用于 mpd 的 gtk 前端.
+- [Polaris](https://github.com/agersant/polaris) — 音乐流媒体应用程序. 
+- [Spotify TUI](https://github.com/Rigellute/spotify-tui) — 一个用 Rust 编写的用于终端的 Spotify 客户端. 
+- [Spotifyd](https://github.com/Spotifyd/spotifyd) — 作为 UNIX 守护程序运行的开源 Spotify 客户端. 
+  
+## 加密数字货币
+
+- [Bitcoin Satoshi's Vision](https://github.com/brentongunning/rust-sv) — 用于处理比特币 SV 的 Rust 库.
+- [cardano-cli](https://github.com/input-output-hk/cardano-cli) — 卡尔达诺命令行界面 (CLI)
+- [ChainX](https://github.com/chainx-org/ChainX) — Polkadot 上完全去中心化的链间加密资产管理.
+- [CITA](https://github.com/citahub/cita) — 面向企业用户的高性能区块链内核.
+- [coinbase-pro-rs](https://github.com/inv2004/coinbase-pro-rs) — Rust 中的 Coinbase pro 客户端，支持同步 / 异步 / websocket 
+- [ethaddrgen](https://github.com/Limeth/ethaddrgen) — 用 Rust 制作的自定义以太坊虚地址生成器 
+- [Grin](https://github.com/mimblewimble/grin/) — MimbleWimble 协议的演变
+- [hdwallet](https://github.com/jjyr/hdwallet) — BIP-32 HD 钱包相关的密钥推导实用程序.
+- [Holochain](https://github.com/holochain/holochain) — 区块链的可扩展 P2P 替代方案，适用于您一直想要构建的所有分布式应用程序. 旧仓库的链接是 [this](https://github.com/holochain/holochain-rust) 不再维护.[ibc-rs](https://github.com/informalsystems/ibc-rs) - Rust 的实现 [Interblockchain Communication](https://xn--ibc-3h3e109w.org/) 协议
+- [infincia/bip39-rs](https://github.com/infincia/bip39-rs) — BIP39 的 Rust 实现.
+- [Joystream](https://github.com/Joystream/joystream) — 一个用户管理的视频平台 
+- [Diem](https://github.com/diem/diem) — Diem 的使命是建立一个简单的全球货币和金融基础设施，为数十亿人赋能.
+- [Lighthouse](https://github.com/sigp/lighthouse) — Rust Ethereum 2.0 客户端
+- [near/nearcore](https://github.com/near/nearcore) — 用于低端移动设备的去中心化智能合约平台.
+- [Nervos CKB](https://github.com/nervosnetwork/ckb) — Nervos CKB 是一个公共的免许可区块链，是 Nervos 网络的公共知识层.
+- [Nimiq](https://github.com/nimiq/core-rs) — Nimiq 节点的 Rust 实现
+- [Parity-Bitcoin](https://github.com/paritytech/parity-bitcoin) — Parity 比特币客户端
+- [Parity-Bridge](https://github.com/paritytech/parity-bridge) — 任何两个基于以太坊的网络之间的桥梁
+- [Parity-Ethereum](https://github.com/openethereum/openethereum) — 快速、轻便、强大的以太坊客户端
+- [Parity-Zcash](https://github.com/paritytech/parity-zcash) — Zcash 协议的 Rust 实现
+- [Phala-Network/phala-blockchain](https://github.com/Phala-Network/phala-blockchain) — 基于 Intel SGX 和 Substrate 的机密智能合约区块链
+- [Polkadot](https://github.com/paritytech/polkadot) — 具有集中安全性的异构多链技术
+- [rbtc](https://github.com/lucawen/rbtc) — 将 BTC 转换为任何货币，反之亦然. 
+- [rust-cardano](https://github.com/input-output-hk/rust-cardano) — Cardano 原语、助手和相关应用程序的 Rust 实现
+- [Substrate](https://github.com/paritytech/substrate) — 用 Rust 编写的通用模块化区块链模板
+- [tendermint-rs](https://github.com/informalsystems/tendermint-rs) - Tendermint 区块链数据结构和客户端的 Rust 实现
+- [wagyu](https://github.com/AleoHQ/wagyu) [[wagyu](https://crates.io/crates/wagyu)] — 用于生成加密货币钱包的 Rust 库
+- [zcash](https://github.com/zcash/zcash) — Zcash 是 “Zerocash” 协议的实现.
+- [YeeCo yeeroot](https://github.com/yeeco/yeeroot) — YeeCo yeeroot 是一个无需许可、安全、高性能和可扩展的公共区块链平台，由基于 Rust 编写的 PoW 共识的全分片技术提供支持
+  
+## 数据库
+
+- [indradb](https://crates.io/crates/indradb) — 基于 Rust 的图形数据库 
+- [Materialize](https://github.com/MaterializeInc/materialize) - 由 Timely Dataflow 提供支持的流式 SQL 数据库：heavy_dollar_sign
+- [noria](https://crates.io/crates/noria) — 用于 Web 应用程序后端的动态变化、部分状态的数据流
+- [Lucid](https://github.com/lucid-kv/lucid) — High performance and distributed KV store accessible through a HTTP API.
+- [ParityDB](https://github.com/paritytech/parity-db) — 快速可靠的数据库，针对读操作进行了优化
+- [PumpkinDB](https://github.com/PumpkinDB/PumpkinDB) — 事件溯源数据库引擎 
+- [seppo0010/rsedis](https://github.com/seppo0010/rsedis) — Rust 中的 Redis 重新实现 
+- [Skytable](https://github.com/skytable/skytable) — 多模型 NoSQL 数据库 
+- [tikv](https://github.com/tikv/tikv) — Rust 中的分布式 KV 数据库 
+- [sled](https://crates.io/crates/sled) —（测试版）现代嵌入式数据库
+- [TerminusDB](https://github.com/terminusdb/terminusdb-store) - 开源图形数据库和文档存储
+  
+## 模拟器
+
+- [kondrak/rust64](https://github.com/kondrak/rust64) 
+- [Ruffle](https://github.com/ruffle-rs/ruffle) — Ruffle 是用 Rust 编程语言编写的 Adobe Flash Player 模拟器. Ruffle 使用 WebAssembly 面向桌面和 Web.
+- [Gekkio/mooneye-gb](https://github.com/Gekkio/mooneye-gb) 
+- [mvdnes/rboy](https://github.com/mvdnes/rboy)
+- [NivenT/RGB](https://github.com/nivent/RGB) 
+- [mohanson/gameboy](https://github.com/mohanson/gameboy) — 全功能跨平台 GameBoy 模拟器. 永远的男孩！
+- [michelhe/rustboyadvance-ng](https://github.com/michelhe/rustboyadvance-ng) - RustboyAdvance-ng 是一款 Gameboy Advance 模拟器，具有桌面、安卓和 [WebAssembly](https://michelhe.github.io/rustboyadvance-ng/) 支持.
+- [iamsix/oxidenes](https://github.com/iamsix/oxidenes)
+- [koute/pinky](https://github.com/koute/pinky) 
+- [pcwalton/sprocketnes](https://github.com/pcwalton/sprocketnes)
+- [Amjad50/plastic](https://github.com/Amjad50/plastic) — plastis 是一个用 Rust 构建的全功能 NES 模拟器.
+- [rustation-ng](https://gitlab.com/flio/rustation-ng/) — 使用 Rust 的 Playstation 模拟器
+- [pacmancoder/rustzx](https://github.com/pacmancoder/rustzx) 
+- [rodrigorc/raze](https://github.com/rodrigorc/raze) — 对于 WebAssembly， [live version here](https://rodrigorc.github.io/raze/) * 虚拟男孩
+- [emu-rs/rustual-boy](https://github.com/emu-rs/rustual-boy) 
+- [mohanson/i8080](https://github.com/mohanson/i8080) — Rust 的 Intel 8080 cpu 模拟器 
+  
+## 游戏
+
+- [lifthrasiir/angolmois-rust](https://github.com/lifthrasiir/angolmois-rust) — 一款支持 BMS 格式的极简音乐视频游戏
+- [citybound](https://github.com/citybound/citybound) - 你应得的城市模拟
+- [schulke-214/connect-four](https://github.com/schulke-214/connect-four) — 一个简单的连接四个实现.
+- [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) — 对 Cave Story 引擎的 Rust 重新实现，并进行了一些增强.
+- [rsaarelm/magog](https://github.com/rsaarelm/magog) — Rust 中的 roguelike 游戏
+- [schulke-214/rsnake](https://github.com/schulke-214/rsnake) — 用 Rust 编写的 Snake.
+- [soydos](https://github.com/soydos/pusoy_dos2) — Pusoy Dos 的 wasm 实现
+- [cristicbz/rust-doom](https://github.com/cristicbz/rust-doom) — Doom 的渲染器，可能会发展成为一款可玩的游戏 
+- [Thinkofname/rust-quake](https://github.com/Thinkofname/rust-quake) — Rust 中的地震地图渲染器
+- [rhex](https://github.com/dpc/rhex) — 六边形 ascii roguelike
+- [garkimasera/rusted-ruins](https://github.com/garkimasera/rusted-ruins) - 具有像素艺术的可扩展开放世界流氓游戏
+- [Veloren](https://gitlab.com/veloren/veloren) — 一个开放世界、开源的多人体素 RPG 游戏，目前处于 alpha 开发阶段
+- [swatteau/sokoban-rs](https://github.com/swatteau/sokoban-rs) — 推箱子实现
+- [aleshaleksey/TGWM](https://github.com/aleshaleksey/TGWM) — 具有回合制机制的 RPG（正在进行中）
+- [ozkriff/zemeroth](https://github.com/ozkriff/zemeroth) — 一款小型 2D 回合制六角策略游戏
+- [Zone of Control](https://github.com/ozkriff/zoc) — 回合制六角策略游戏 
+- [phantomion/snake_game](https://github.com/phantomion/snake_game) - 用 Rust 编写的简单终端蛇游戏.
+
+## 图形处理
+
+- [Limeth/euclider](https://github.com/Limeth/euclider) — 实时 4D CPU 光线追踪器
+- [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) — 一个 SVG 渲染库.
+- [ivanceras/svgbob](https://github.com/ivanceras/svgbob) — 将 ASCII 图转换为 SVG 图形 
+- [RazrFalcon/svgcleaner](https://github.com/RazrFalcon/svgcleaner) — 整理 SVG 图形
+- [Twinklebear/tray_rust](https://github.com/Twinklebear/tray_rust) — 光线追踪器
+- [turnage/valora](https://crates.io/crates/valora) — 生成美术图书馆 
+- [mikigraf/Image-Processing-CLI-in-Rust](https://github.com/mikigraf/Image-Processing-CLI-in-Rust) — 用于处理图像、生成直方图的 CLI. 
+
+## 工业自动化
+
+- [locka99/opcua](https://github.com/locka99/opcua) —  [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) 图书馆.
+- [slowtec/tokio-modbus](https://github.com/slowtec/tokio-modbus) - 一种 [tokio](https://tokio.rs/)-based [modbus](https://modbus.org/) 图书馆. 
+- [BiancoRoyal/modbus-iiot-rust](https://github.com/BiancoRoyal/modbus-iiot-rust) — 纯锈 [modbus](https://modbus.org/) 没有或更少依赖的库.
+  
+  
+  
+  
+  
+  
+  
   
 # ✈ 杂货铺
 # 🐂 大牛一览表
