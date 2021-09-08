@@ -102,13 +102,13 @@ Rust 是唯一一个下面所有框框都打勾的语言：
  
 > 以下电子书籍，仅供学习参考。
   
-- [《深入浅出Rust》](https://book.douban.com/subject/30312231/)
+- [《深入浅出Rust》](https://jp1lib.org/s/?q=%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BARust%E3%80%8B)
   
 - [《Rust权威指南》](https://www.aliyundrive.com/s/wUXm3x7fCnW)
   
 - [《Rust 程序设计语言》](https://www.aliyundrive.com/s/UNQm1AvMQTR)
   
-- [《精通Rust(第2版)》](https://www.aliyundrive.com/s/mgzphhMbbX1)
+- [《精通Rust(第2版)》](https://jp1lib.org/book/17127064/820864)
    
   
 # 📑 大牛文章
