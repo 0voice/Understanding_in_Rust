@@ -111,7 +111,7 @@ Rust 是唯一一个下面所有框框都打勾的语言：
   
 # 📑 大牛文章
   
-[理解 Rust 的生命周期](https://github.com/0voice/Understanding_in_Rust/blob/main/%E6%96%87%E7%AB%A0/%E7%90%86%E8%A7%A3%20Rust%20%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)
+- [理解 Rust 的生命周期](https://github.com/0voice/Understanding_in_Rust/blob/main/%E6%96%87%E7%AB%A0/%E7%90%86%E8%A7%A3%20Rust%20%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)
   
 # 📰 论文
 # 💽 视频
