@@ -99,6 +99,8 @@ Rust 是唯一一个下面所有框框都打勾的语言：
 - [Rust Drop trait](https://github.com/0voice/Understanding_in_Rust/blob/main/%E5%85%A5%E9%97%A8%E7%A7%98%E7%AC%88/Rust%20Drop%20trait.md)<br>
 
 # 📖 书籍
+ 
+> 以下电子书籍，仅供学习参考。
   
 - [《Rust编程之道》](https://www.aliyundrive.com/s/4vMVLw3CgzH)
   
