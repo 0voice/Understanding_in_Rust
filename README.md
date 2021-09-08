@@ -112,6 +112,7 @@ Rust 是唯一一个下面所有框框都打勾的语言：
 # 📑 大牛文章
   
 - [理解 Rust 的生命周期](https://github.com/0voice/Understanding_in_Rust/blob/main/%E6%96%87%E7%AB%A0/%E7%90%86%E8%A7%A3%20Rust%20%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)
+- [高德技术| 基于Rust的Android Native内存分析方案](https://github.com/0voice/Understanding_in_Rust/blob/main/%E6%96%87%E7%AB%A0/%E5%9F%BA%E4%BA%8ERust%E7%9A%84Android%20Native%E5%86%85%E5%AD%98%E5%88%86%E6%9E%90%E6%96%B9%E6%A1%88.md)
   
 # 📰 论文
 # 💽 视频
