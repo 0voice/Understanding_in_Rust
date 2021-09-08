@@ -164,6 +164,11 @@ Rust Linz 2021 |
 
 # 🏗 开源框架
   
+## 值得新手关注的Rust项目
+
+- [mini redis](https://github.com/tokio-rs/mini-redis) - 不完整的Redis客户端和服务器实现使用Tokio -仅为学习目的
+- [async-graphql](https://github.com/sunli829/async-graphql) - 一个在Rust中实现的GraphQL服务器库
+  
 ## 应用程序
 
 - [alacritty](https://github.com/alacritty/alacritty) — 跨平台、GPU 增强的终端模拟器
