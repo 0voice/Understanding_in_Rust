@@ -321,7 +321,7 @@ Rust Linz 2021 |
 - [slowtec/tokio-modbus](https://github.com/slowtec/tokio-modbus) - 一种 [tokio](https://tokio.rs/)-based [modbus](https://modbus.org/) 图书馆. 
 - [BiancoRoyal/modbus-iiot-rust](https://github.com/BiancoRoyal/modbus-iiot-rust) — 纯锈 [modbus](https://modbus.org/) 没有或更少依赖的库.
   
-### Observability
+### 可观察性工具
 
 - [timberio/vector](https://github.com/timberio/vector) — 高性能、日志、指标和事件路由器.
 - [Mnwa/gtsa](https://github.com/Mnwa/gtsa) — 将 gelf 消息（Graylog 的消息）代理到 Sentry 的简单解决方案
