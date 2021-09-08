@@ -114,7 +114,19 @@ Rust 是唯一一个下面所有框框都打勾的语言：
 - [理解 Rust 的生命周期](https://github.com/0voice/Understanding_in_Rust/blob/main/%E6%96%87%E7%AB%A0/%E7%90%86%E8%A7%A3%20Rust%20%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)
 - [高德技术 | 基于Rust的Android Native内存分析方案](https://github.com/0voice/Understanding_in_Rust/blob/main/%E6%96%87%E7%AB%A0/%E5%9F%BA%E4%BA%8ERust%E7%9A%84Android%20Native%E5%86%85%E5%AD%98%E5%88%86%E6%9E%90%E6%96%B9%E6%A1%88.md)
   
-# 📰 论文
+# 📰 官方文档
+  
+- [标准库API文档](https://doc.rust-lang.org/std/)
+- [Rust Reference](https://doc.rust-lang.org/reference/index.html): Rust reference 文档，有中文翻译版本 [Rust语言规范](https://rustlang-cn.org/office/rust/reference/) 正在翻译过程中
+- [Rust编译错误索引](https://doc.rust-lang.org/error-index.html)：发生编译错误时，可以通过索引找到具体错误解释
+- [rustdoc文档](https://doc.rust-lang.org/rustdoc/): `restdoc`工具的使用文档
+- [Rustonomicon](https://doc.rust-lang.org/reference/): rust的参考文档。但是目前并不完整，可能有遗漏和错误
+- [Unstable Book](https://doc.rust-lang.org/unstable-book/): 用于尚不稳定特性的文档
+- [Rustonomicon](https://doc.rust-lang.org/nomicon/): unsafe rust的黑暗艺术，有中文翻译版本 [Rust高级编程](https://rustlang-cn.org/office/rust/advrust/)
+- [The Cargo Book](https://doc.rust-lang.org/cargo/index.html): cargo使用介绍，有中文翻译版本 [Cargo教程](https://rustlang-cn.org/office/rust/cargo/) 正在进行中
+- [Rust Edition Guide](https://doc.rust-lang.org/nightly/edition-guide/introduction.html): Rust 版本指南，传递 Rust 不同版本之间大的变更信息
+- [Command line apps in Rust](https://rust-lang-nursery.github.io/cli-wg/#command-line-apps-in-rust): 在Rust中编写命令行程序
+  
 # 💽 视频
   
 Rust 验证研讨会 2021 | 
@@ -347,5 +359,6 @@ Rust Linz 2021 |
 - Rust-leetcodes刷题：https://stevenbai.top/rust-leetcode/
 - Rust by Example 通过例子学 Rust：https://doc.rust-lang.org/rust-by-example/index.html
 - 电子书下载 ：https://jp1lib.org/s/Rust
+
   
 # 🐂 大牛一览表
