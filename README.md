@@ -99,14 +99,12 @@ Rust 是唯一一个下面所有框框都打勾的语言：
 - [Rust Drop trait](https://github.com/0voice/Understanding_in_Rust/blob/main/%E5%85%A5%E9%97%A8%E7%A7%98%E7%AC%88/Rust%20Drop%20trait.md)<br>
 
 # 📖 书籍
- 
-> 以下电子书籍，仅供学习参考。
   
 - [《深入浅出Rust》](https://jp1lib.org/s/?q=%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BARust%E3%80%8B)
   
-- [《Rust权威指南》](https://www.aliyundrive.com/s/wUXm3x7fCnW)
+- [《Rust权威指南》](https://book.douban.com/subject/35081743/)
   
-- [《Rust 程序设计语言》](https://www.aliyundrive.com/s/UNQm1AvMQTR)
+- [《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)
   
 - [《精通Rust(第2版)》](https://jp1lib.org/book/17127064/820864)
    
@@ -347,5 +345,6 @@ Rust Linz 2021 |
 - 微软发布的 Rust 新手教程：https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
 - Rust-leetcodes刷题：https://stevenbai.top/rust-leetcode/
 - Rust by Example 通过例子学 Rust：https://doc.rust-lang.org/rust-by-example/index.html
+- 电子书下载 ：https://jp1lib.org/s/Rust
   
 # 🐂 大牛一览表
