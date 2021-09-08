@@ -102,7 +102,7 @@ Rust 是唯一一个下面所有框框都打勾的语言：
  
 > 以下电子书籍，仅供学习参考。
   
-- [《深入浅出Rust》](https://www.aliyundrive.com/s/2HdYEootmWH)
+- [《深入浅出Rust》](https://book.douban.com/subject/30312231/)
   
 - [《Rust权威指南》](https://www.aliyundrive.com/s/wUXm3x7fCnW)
   
