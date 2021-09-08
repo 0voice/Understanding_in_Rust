@@ -102,8 +102,6 @@ Rust 是唯一一个下面所有框框都打勾的语言：
  
 > 以下电子书籍，仅供学习参考。
   
-- 《Rust编程之道》
-  
 - [《深入浅出Rust》](https://www.aliyundrive.com/s/2HdYEootmWH)
   
 - [《Rust权威指南》](https://www.aliyundrive.com/s/wUXm3x7fCnW)
@@ -115,22 +113,6 @@ Rust 是唯一一个下面所有框框都打勾的语言：
   
 # 📑 大牛文章
   
-- [华为 | 可信编程 -- 华为引领Rust语言开发的实践和愿景](https://github.com/0voice/Understanding_in_Rust/blob/main/%E6%96%87%E7%AB%A0/%E5%8D%8E%E4%B8%BA%20%7C%20%E5%8F%AF%E4%BF%A1%E7%BC%96%E7%A8%8B%20--%20%E5%8D%8E%E4%B8%BA%E5%BC%95%E9%A2%86Rust%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%9A%84%E5%AE%9E%E8%B7%B5%E5%92%8C%E6%84%BF%E6%99%AF.md)
-
-- [华为 | 基于Rust的下一代虚拟化平台-StratoVirt](https://github.com/0voice/Understanding_in_Rust/blob/main/%E6%96%87%E7%AB%A0/%E5%8D%8E%E4%B8%BA%20%7C%20%E5%9F%BA%E4%BA%8ERust%E7%9A%84%E4%B8%8B%E4%B8%80%E4%BB%A3%E8%99%9A%E6%8B%9F%E5%8C%96%E5%B9%B3%E5%8F%B0-StratoVirt.md)
-  
-- [Rust中的错误传递和日志记录](https://github.com/0voice/Understanding_in_Rust/blob/main/%E6%96%87%E7%AB%A0/Rust%E4%B8%AD%E7%9A%84%E9%94%99%E8%AF%AF%E4%BC%A0%E9%80%92%E5%92%8C%E6%97%A5%E5%BF%97%E8%AE%B0%E5%BD%95.md)
-
-- [io_uring | 用 Rust 实现基于 io_uring 的异步随机读文件](https://github.com/0voice/Understanding_in_Rust/blob/main/%E6%96%87%E7%AB%A0/io_uring%20%7C%20%E7%94%A8%20Rust%20%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8E%20io_uring%20%E7%9A%84%E5%BC%82%E6%AD%A5%E9%9A%8F%E6%9C%BA%E8%AF%BB%E6%96%87%E4%BB%B6.md)
-
-- [「译」使用 Rust 实现命令行生命游戏](https://github.com/0voice/Understanding_in_Rust/blob/main/%E6%96%87%E7%AB%A0/%E3%80%8C%E8%AF%91%E3%80%8D%E4%BD%BF%E7%94%A8%20Rust%20%E5%AE%9E%E7%8E%B0%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%94%9F%E5%91%BD%E6%B8%B8%E6%88%8F.md)
-
-- [图解 Rust 所有权与生命周期](https://github.com/0voice/Understanding_in_Rust/blob/main/%E6%96%87%E7%AB%A0/%E5%9B%BE%E8%A7%A3%20Rust%20%E6%89%80%E6%9C%89%E6%9D%83%E4%B8%8E%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)
-
-- [蚂蚁集团 CeresDB 团队 | 关于 Rust 错误处理的思考](https://github.com/0voice/Understanding_in_Rust/blob/main/%E6%96%87%E7%AB%A0/%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%20CeresDB%20%E5%9B%A2%E9%98%9F%20%7C%20%E5%85%B3%E4%BA%8E%20Rust%20%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86%E7%9A%84%E6%80%9D%E8%80%83.md)
-
-- [解读 Rust 1.50 稳定版](https://github.com/0voice/Understanding_in_Rust/blob/main/%E6%96%87%E7%AB%A0/%E8%A7%A3%E8%AF%BB%20Rust%201.50%20%E7%A8%B3%E5%AE%9A%E7%89%88.md)
-
 
   
 # 📰 论文
