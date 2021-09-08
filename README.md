@@ -323,6 +323,36 @@ Rust Linz 2021 |
 - [slowtec/tokio-modbus](https://github.com/slowtec/tokio-modbus) - 一种 [tokio](https://tokio.rs/)-based [modbus](https://modbus.org/) 图书馆. 
 - [BiancoRoyal/modbus-iiot-rust](https://github.com/BiancoRoyal/modbus-iiot-rust) — 纯锈 [modbus](https://modbus.org/) 没有或更少依赖的库.
   
+### Observability
+
+- [timberio/vector](https://github.com/timberio/vector) — 高性能、日志、指标和事件路由器.
+- [Mnwa/gtsa](https://github.com/Mnwa/gtsa) — 将 gelf 消息（Graylog 的消息）代理到 Sentry 的简单解决方案
+- [OpenTelemetry](https://crates.io/crates/opentelemetry) — OpenTelemetry 提供一组 API、库、代理和收集器服务，以从您的应用程序中捕获分布式跟踪和指标. 您可以使用 Prometheus、Jaeger 和其他可观察性工具分析它们.
+
+### 操作系统
+
+- [nebulet/nebulet](https://github.com/nebulet/nebulet) — 实现在 Ring 0 中运行的 WebAssembly“用户模式” 的微内核.
+- [redox-os/redox](https://gitlab.redox-os.org/redox-os/redox) 
+- [thepowersgang/rust_os](https://github.com/thepowersgang/rust_os)
+- [tock/tock](https://github.com/tock/tock) — 适用于基于 Cortex-M 的微控制器的安全嵌入式操作系统
+
+### 生产能力
+
+- [espanso](https://github.com/federico-terzi/espanso) — 一个用 Rust 编写的跨平台文本扩展器 [eureka](https://crates.io/crates/eureka) — 无需离开终端即可输入和存储您的想法的 CLI 工具
+- [pier-cli/pier](https://github.com/pier-cli/pier) — 用于管理（添加、搜索元数据等）所有单行程序、脚本、工具和 CLI 的中央存储库
+- [subilo](https://github.com/Bansco/subilo) - 持续部署代理
+
+### 安全工具
+
+- [kpcyrd/authoscope](https://github.com/kpcyrd/authoscope) — 一个可编写脚本的网络认证破解器
+- [lethe](https://github.com/kostassoid/lethe) — 安全的跨平台驱动器擦除实用程序 
+- [arvancloud/libinjection-rs](https://github.com/arvancloud/libinjection-rs) — Rust 绑定 [libinjection](https://github.com/client9/libinjection)
+- [ripasso](https://github.com/cortex/ripasso/) — 密码管理器，与 pass 兼容的文件系统
+- [kpcyrd/rshijack](https://github.com/kpcyrd/rshijack) — 一个 TCP 连接劫持者，对 shijack 进行 Rust 重写 
+- [rustscan/rustscan](https://github.com/RustScan/RustScan) — 使用此端口扫描工具使 Nmap 更快
+- [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue) — 一个安全的多线程数据包嗅探器
+- [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) — 半自动 OSINT 框架和包管理器   
+  
 
 # ✈ 杂货铺
   
