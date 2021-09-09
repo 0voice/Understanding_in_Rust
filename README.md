@@ -114,27 +114,27 @@ Rust 是唯一一个下面所有框框都打勾的语言：
   
 **入门书籍**
   
-- [The Rust Programming Language](https://doc.rust-lang.org/book/)
+- [《The Rust Programming Language》](https://doc.rust-lang.org/book/)
   
 欢迎！本书将教你有关 Rust 编程语言的知识。Rust 是一种系统编程语言，专注于三个目标：安全性、速度和并发性。它在没有垃圾收集器的情况下实现了这些目标，使其成为其他语言不擅长的许多用例的有用语言：嵌入其他语言、具有特定空间和时间要求的程序以及编写低级代码，例如设备驱动程序和操作系统。它通过在不产生运行时开销的情况下进行大量编译时安全检查，同时消除所有数据竞争，从而改进了针对此空间的当前语言。Rust 还旨在实现“零成本抽象”，尽管其中一些抽象感觉像是高级语言的抽象。即便如此，Rust 仍然允许像低级语言一样进行精确控制。
   
-- [Welcome to Rust-101](https://www.ralfj.de/projects/rust-101/main.html)
+- [《Welcome to Rust-101》](https://www.ralfj.de/projects/rust-101/main.html)
   
 这是 Rust-101，一个 Rust 语言的小教程。它旨在成为一门交互式的动手课程：我相信真正学习一门语言的唯一方法是在其中编写代码，因此您应该在课程中进行编码。如果您有任何未在此处回答的问题，请查看下面的“其他资源”。尤其是，IRC 频道里挤满了愿意帮助你的很棒的人！我在那里花了很多时间 ;-) 我假设对编程有一定的了解，因此不会解释大多数语言共有的基本概念。相反，我将专注于 Rust 的特殊之处。
   
-- [Rust by Example](http://rustbyexample.com/)
+- [《Rust by Example》](http://rustbyexample.com/)
   
 Rust by Example (RBE) 是一组可运行的示例，用于说明各种 Rust 概念和标准库。
   
-- [Why Rust?](https://kr1lib.org/book/10990507/3a18af) 
+- [《Why Rust?》](https://kr1lib.org/book/10990507/3a18af) 
   
 尽管自 40 多年前引入 C 以来，系统编程语言已经有了很大的发展，但我们对造成巨大后果的愚蠢错误的能力仍然没有改变，新闻中经常有生动的例子。这份 O'Reilly 报告研究了 Rust，这是一种新的系统编程语言，它将安全性和安全性与性能相结合，与 C 和 C++ 相当。
   
-- [Learning Rust](https://kr1lib.org/book/11689651/08c0b6) 
+- [《Learning Rust》](https://kr1lib.org/book/11689651/08c0b6) 
   
 Rust 是一种高度并发和高性能的语言，专注于安全和速度、内存管理和编写干净的代码。它还保证线程安全，其目的是提高现有应用程序的性能。它得到了 Mozilla 的支持，以解决并发的关键问题。 
   
-- [Beginning Rust - From Novice to Professional](https://kr1lib.org/book/3490555/7b7c82)
+- [《Beginning Rust - From Novice to Professional》](https://kr1lib.org/book/3490555/7b7c82)
   
 学习在 Unix、Linux shell、macOS 和 Windows 命令行上以简单、循序渐进的方式使用 Rust 进行编程。当您阅读本书时，您将建立在您在前几章中获得的知识的基础上，并了解 Rust 提供了什么。
 
@@ -142,51 +142,51 @@ Rust 是一种高度并发和高性能的语言，专注于安全和速度、内
 
 只需要基本的编程知识，最好是 C 或 C++。要理解这本书，知道什么是整数和浮点数，以及区分标识符和字符串文字就足够了。
   
-- [Rust Cookbook](https://kr1lib.org/book/3362654/66eb5a)  
+- [《Rust Cookbook》](https://kr1lib.org/book/3362654/66eb5a)  
   
 本书将帮助您理解 Rust 语言的核心概念，使您能够通过整合零成本抽象和更好的内存管理等功能来开发高效和高性能的应用程序。深入研究 Rust 中的高级概念，例如错误处理、宏、包和并行性。在本书的最后，学习如何创建 HTTP 服务器和 Web 服务，在服务器端编程方面建立强大的基础知识，并能够提供使用 Rust 构建高性能和更安全的生产级 Web 应用程序和服务的解决方案。
   
-- [Rust Standard Library Cookbook](https://kr1lib.org/book/3571952/9b9cdb)  
+- [《Rust Standard Library Cookbook》](https://kr1lib.org/book/3571952/9b9cdb)  
   
 Mozilla 的 Rust 以其惊人的功能和强大的库而备受关注。本书将带您了解各种秘诀，教您如何利用标准库来实现高效的解决方案。
 
 本书首先简要介绍了标准库和馆藏的基本模块。从这里开始，食谱将涵盖通过解析支持文件/目录处理和交互的包。您将了解与高级数据结构、错误处理和网络相关的包。您还将学习使用期货和实验性夜间功能。这本书还涵盖了 Rust 中最相关的外部 crate。
   
-- [Network Programming with Rust](https://kr1lib.org/book/3571947/48c564)  
+- [《Network Programming with Rust》](https://kr1lib.org/book/3571947/48c564)  
   
 Rust 足够低级，可以提供对内存的细粒度控制，同时通过编译时验证提供安全性。这使得它特别适合编写低级网络应用程序。
 
 本书分为三个主要部分，将带您踏上构建功能齐全的 Web 服务器的激动人心的旅程。本书首先对 Rust 和基本的网络概念进行了扎实的介绍。这将为整本书奠定基础并定下基调。在第二部分中，我们将深入研究如何使用 Rust 开发网络软件。从使用套接字的客户端-服务器网络到 IPv4/v6、DNS、TCP、UDP，您还将了解使用 serde 序列化和反序列化数据。这本书展示了如何通过 HTTP 与 REST 服务器进行通信。本书的最后一部分讨论了使用 Tokio 堆栈进行异步网络编程。鉴于安全对于现代系统的重要性，您将看到 Rust 如何支持常见的原语，例如 TLS 和公钥加密。
   
-- [Rust Programming by Example](https://kr1lib.org/book/5669466/ef3a67) 
+- [《Rust Programming by Example》](https://kr1lib.org/book/5669466/ef3a67) 
   
 从介绍 Rust 开始，您将学习基本方面，例如其语法、数据类型、函数、泛型、控制流等。在此之后，您将直接开始构建您的第一个项目，俄罗斯方块游戏。接下来，您将使用 Tokio（可扩展且高效的异步 IO Rust 库）构建图形音乐播放器并使用快速、可靠的网络软件。
 
 在本书的过程中，您将探索 Rust 编程的各种特性，包括它的 SDL 特性、事件循环、文件 I/O 和著名的 GTK+ 小部件工具包。通过这些项目，您将看到 Rust 在并发方面的表现——包括并行性、可靠性、改进的性能、泛型、宏和线程安全。我们还将介绍 Rust 的一些异步和反应式编程方面。
   
-- [Rust Quick Start Guide](https://kr1lib.org/book/11689628/cf06fb)
+- [《Rust Quick Start Guide》](https://kr1lib.org/book/11689628/cf06fb)
   
 熟悉使用流行的新系统编程语言编写程序，这些语言将低级语言的强大性能与多线程代码中的线程安全等高级功能结合在一起。
   
-- [Rust in Action [MEAP]](https://kr1lib.org/book/11235796/a7ef40)  
+- [《Rust in Action [MEAP]》](https://kr1lib.org/book/11235796/a7ef40)  
   
 Rust in Action 是一本面向想要探索 Rust 编程语言世界的中级程序员的书。它适用于可能已经用尽网络上的免费资料但仍想了解更多信息的人。它与 Rust 编程的其他材料不同，因为它还教您有关系统编程的知识。您将能够更多地了解 CPU 的工作原理、计算机如何计时、指针是什么以及您的网卡和键盘如何告诉 CPU 它们已准备好读取输入。
 
 从系统编程书籍的角度来看，它实际上也是独一无二的 - 因为几乎每个示例都适用于 Windows！如果你是那种喜欢实际例子的学习者，你会喜欢阅读这本书。
   
-- [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/)  
+- [《A Gentle Introduction to Rust》](https://stevedonovan.github.io/rust-gentle-intro/)  
   
 Rust 是一种静态和强类型的系统编程语言。静态意味着所有类型在编译时都是已知的，强烈意味着这些类型旨在使编写不正确的程序变得更加困难。一个成功的编译意味着你可以比使用像 C 这样的牛仔语言更好地保证正确性。系统意味着生成最好的机器代码，并完全控制内存使用。因此，其用途非常核心：操作系统、设备驱动程序和甚至可能没有操作系统的嵌入式系统。然而，它实际上也是一种非常令人愉快的语言，可以用来编写普通的应用程序代码。
 
 与 C 和 C++ 的最大区别在于 Rust 默认是安全的；检查所有内存访问。意外损坏内存是不可能的。
   
-- [Practical Machine Learning with Rust: Creating Intelligent Applications in Rust](https://kr1lib.org/book/5304256/0ff807)  
+- [《Practical Machine Learning with Rust: Creating Intelligent Applications in Rust》](https://kr1lib.org/book/5304256/0ff807)  
   
 Rust 中的机器学习已经被社区忽视了很长一段时间。由于宇宙中散布着许多不同的板条箱，这本书试图统一所有的信息和用法，并在某种程度上动摇社区采取行动。数据是新的前沿领域，而 Rust 必须成为其中的一部分。
 
 阅读了使用 Rust 的实用机器学习之后，您将对使用 Rust 创建高计算库有一个深入的了解。掌握了这种神奇语言的知识，您将能够创建性能更高、内存安全且资源占用更少的应用程序。
   
-- [Rust Web Development](https://kr1lib.org/book/11729741/a127f0)  
+- [《Rust Web Development》](https://kr1lib.org/book/11729741/a127f0)  
 
 Rust Web Development 是使用 Rust 构建基于服务器的 Web 应用程序的实践指南。如果您使用 Java、C# 或 PHP 构建了 Web 服务器，您会立即爱上 Rust 提供的性能和开发体验。本书向您展示了如何使用纯 Rust 以及重要的 Rust 库（例如用于异步运行时的 tokio、用于 Web 服务器和 API 的 warp 以及运行外部 HTTP 请求的 reqwest 等）高效工作。
 
