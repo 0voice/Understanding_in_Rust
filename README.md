@@ -530,7 +530,14 @@ Rust Linz 2021 |
 - Rust-leetcodes刷题：https://stevenbai.top/rust-leetcode/
 - Rust by Example 通过例子学 Rust：https://doc.rust-lang.org/rust-by-example/index.html
 - 电子书下载 ：https://jp1lib.org/s/Rust
-
+- Rust线下全球会议：
+  - RustConf: https://rustconf.com/
+  - Rust Belt Rust: https://rust-belt-rust.com/
+  - RustFest: https://blog.rustfest.eu/
+  - Rust Latam: https://rustcon.asia/
+  - RustCon Asia: https://rustcon.asia/
+  
+  
   
 # 🐂 大牛一览表
 
