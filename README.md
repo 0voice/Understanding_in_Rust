@@ -516,7 +516,168 @@ Rust Linz 2021 |
 - [rustscan/rustscan](https://github.com/RustScan/RustScan) — 使用此端口扫描工具使 Nmap 更快
 - [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue) — 一个安全的多线程数据包嗅探器
 - [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) — 半自动 OSINT 框架和包管理器   
+
+### 系统工具
+
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide/) — 一种快速替代 `cd` 的方法，可以学习你的习惯
+- [bandwhich](https://github.com/imsnif/bandwhich) — 终端带宽利用工具
+- [brocode/fblog](https://github.com/brocode/fblog) — 小型命令行 JSON 日志查看器 
+- [buster/rrun](https://github.com/buster/rrun) — Linux 的命令启动器，类似于 gmrun
+- [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) — 受启发的可配置文件系统观察器 [entr](http://eradman.com/entrproject/) 
+- [dalance/procs](https://github.com/dalance/procs) — Rust 编写的 “ps” 的现代替代品
+- [diskonaut](https://github.com/imsnif/diskonaut) — 终端可视化磁盘空间导航器
+- [dust](https://github.com/bootandy/dust) — 更直观的 du 版本
+- [ddh](https://github.com/darakian/ddh) — 快速重复文件查找器
+- [fselect](https://crates.io/crates/fselect) — 使用类似 SQL 的查询查找文件 
+- [gitui](https://github.com/extrawurst/gitui) - 用 Rust 编写的 git 快速终端客户端.
+- [k0pernicus/zou](https://github.com/k0pernicus/zou) — 下载加速器
+- [Kondo](https://github.com/tbillington/kondo) - 用于删除软件项目工件和回收磁盘空间的 CLI 和 GUI 工具
+- [lotabout/rargs](https://github.com/lotabout/rargs) [[rargs](https://crates.io/crates/rargs)] — 支持模式匹配的 xargs + awk
+- [lotabout/skim](https://github.com/lotabout/skim) — 纯锈的模糊取景器
+- [mitnk/cicada](https://github.com/mitnk/cicada) — 一个类似 bash 的 Unix shell
+- [mmstick/concurr](https://github.com/mmstick/concurr) — 带有客户端 - 服务器架构的 GNU Parallel 的替代方案
+- [mmstick/fontfinder](https://github.com/mmstick/fontfinder) — 用于预览和安装 Google 字体的 GTK3 应用程序
+- [mmstick/parallel](https://github.com/mmstick/parallel) — 重新实现 GNU Parallel
+- [mmstick/tv-renamer](https://github.com/mmstick/tv-renamer) — 带有可选 GTK3 前端的电视剧重命名应用程序. 
+- [organize-rt](https://gitlab.com/FixFromDarkness/organize-rt) — 根据正则表达式规则组织文件（默认为文件扩展名）.
+- [orhun/kmon](https://github.com/orhun/kmon) — Linux 内核管理器和活动监视器 
+- [Peltoche/lsd](https://github.com/Peltoche/lsd) — 一个 ls 有很多漂亮的颜色和很棒的图标 
+- [ogham/exa](https://github.com/ogham/exa) — 'ls' 的替代品 
+- [pop-os/debrep](https://github.com/pop-os/debrepbuild) — 用于构建和管理 APT 存储库的 APT 存储库工具
+- [pop-os/popsicle](https://github.com/pop-os/popsicle) — GTK3 和 CLI 实用程序，用于并行刷新多个 USB 设备
+- [pueue](https://github.com/nukesor/pueue) — 管理您长时间运行的 shell 命令.
+- [Luminarys/synapse](https://github.com/Luminarys/synapse) — 灵活且快速的 BitTorrent 守护进程. 
+- [pop-os/system76-power](https://github.com/pop-os/system76-power/) — 带有 CLI 工具的 Linux 电源管理守护进程（DBus 接口）.
+- [mxseev/logram](https://github.com/mxseev/logram) — 将日志文件的更新推送到 Telegram
+- [redox-os/ion](https://github.com/redox-os/ion) — 下一代系统外壳 
+- [jamesbirtles/hotkey-rs](https://github.com/jamesbirtles/hotkey-rs) — 在 Rust 中收听全局热键的库
+- [nivekuil/rip](https://github.com/nivekuil/rip) - 一种安全且符合人体工程学的替代`rm` 
+- [sharkdp/bat](https://github.com/sharkdp/bat) — 有翅膀的 cat(1) 克隆体. 
+- [sharkdp/fd](https://github.com/sharkdp/fd) — 一种简单、快速且用户友好的查找替代方案.
+- [sitkevij/hex](https://github.com/sitkevij/hex) — 彩色的 hexdump 终端实用程序.
+- [slai11/goto](https://github.com/slai11/goto) — 跳转到索引目录的简单且用户友好的方式.
+- [m4b/bingrep](https://github.com/m4b/bingrep) — 通过来自各种操作系统和体系结构的二进制文件进行 Greps，并为它们着色. 
+- [uutils/coreutils](https://github.com/uutils/coreutils) — GNU coreutils 的跨平台 Rust 重写
+- [watchexec](https://github.com/watchexec/watchexec) — 执行命令以响应文件修改 
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) — 计算代码行数 
+- [yake](https://crates.io/crates/yake) — Yake 是一个基于 yaml 文件的任务运行器
+- [ytop](https://github.com/cjbassi/ytop) - 一个用 Rust 编写的 TUI 系统监视器 
+- [cocom](https://github.com/LamdaLamdaLamda/cocom) - 纯粹用 Rust 编写的 NTP 客户端. 
+
+### 文字编辑器
+
+- [amp](https://amp.rs/) — 受 Vi/Vim 的启发. 
+- [gchp/iota](https://github.com/gchp/iota) — 一个简单的文本编辑器
+- [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) — 具有语法高亮、增量搜索等功能的小型 (≤1024 LOC) 文本编辑器.
+- [vamolessa/pepper](https://github.com/vamolessa/pepper) [[pepper](https://crates.io/crates/pepper)] — 一个自以为是的模式编辑器，可简化从终端进行的代码编辑
+- [mathall/rim](https://github.com/mathall/rim) — 用 Rust 编写的类似 Vim 的文本编辑器
+- [ox](https://github.com/curlpipe/ox) — 在终端中运行的独立 Rust 文本编辑器！
+- [Remacs](https://github.com/remacs/remacs) — 社区驱动的 Emacs 到 Rust 的移植.
+- [xi-editor](https://github.com/xi-editor/xi-editor) — 一个现代编辑器，后端是用 Rust 编写的.
+- [xray](https://github.com/atom-archive/xray) — 实验性的下一代基于电子的文本编辑器. 
+
+### 文本处理
+
+- [cpc](https://github.com/probablykasper/cpc) - 解析和计算数学字符串，支持单位和单位转换，从 “1+2” 到“1% 的回合（1 光年 / 14!s 到公里 / 小时）”.
+- [grex](https://github.com/pemistahl/grex) — 用于从用户提供的测试用例生成正则表达式的命令行工具和库
+- [dmerejkowsky/ruplacer](https://github.com/dmerejkowsky/ruplacer) — 在源文件中查找和替换文本
+- [ripgrep](https://crates.io/crates/ripgrep) — 结合了 Silver Searcher 的可用性和 grep 的原始速度
+- [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) — ripgrep，还可以搜索 PDF、电子书、Office 文档、zip、tar.gz 等.
+- [replicadse/complate](https://github.com/replicadse/complate) — 一种终端内文本模板工具，用于标准化消息（如 GIT 提交）. 
+- [sd](https://crates.io/crates/sd) — 直观的查找和替换 CLI
+- [lavifb/todo_r](https://github.com/lavifb/todo_r) — 用一个命令查找所有 TODO 笔记！ 
+- [whitfin/runiq](https://github.com/whitfin/runiq) — 从未排序的输入中过滤重复行的有效方法.
+- [whitfin/bytelines](https://github.com/whitfin/bytelines) — 将输入行读取为字节片以提高效率.
+- [vishaltelangre/ff](https://github.com/vishaltelangre/ff) — 按名称查找文件 (ff)！ 
+- [xsv](https://crates.io/crates/xsv) — 一个快速的 CSV 命令行工具（切片、索引、选择、搜索、采样等）
+- [Lisprez/so_stupid_search](https://github.com/Lisprez/so_stupid_search) — 一个简单快速的人类字符串搜索工具
+
+### 图像处理
+
+- [Imager](https://github.com/imager-io/imager) — 自动图像优化.
+
+### 实用工具
+
+- [aleshaleksey/AZDice](https://github.com/aleshaleksey/AZDice) — 桌面家庭酿酒商的骰子成功分发生成器. 
+- [yaa110/cb](https://github.com/yaa110/cb) — 管理剪贴板的命令行界面 
+- [brycx/checkpwn](https://github.com/brycx/checkpwn) — 一个 Have I Being Pwned (HIBP) 命令行实用工具，可让您轻松检查被盗用的帐户和密码.
+- [vamolessa/copycat](https://github.com/vamolessa/copycat) [[copycat](https://crates.io/crates/copycat)] — 一个简单的剪贴板 cli 界面，适用于具有文本和 bmp 支持的窗口
+- [evansmurithi/cloak](https://github.com/evansmurithi/cloak) — 命令行 OTP（一次性密码）身份验证器应用程序. 
+- [replydev/cotp](https://github.com/replydev/cotp) - 与外部备份兼容的值得信赖的加密一次性密码验证器应用程序. 
+- [arthrp/consoletimer](https://github.com/arthrp/consoleTimer) — 终端的简单计时器.
+- [tversteeg/emplace](https://github.com/tversteeg/emplace) — 在多台机器上同步已安装的包
+- [unrelentingtech/freepass](https://github.com/unrelentingtech/freepass) — 高级用户的免费密码管理器.
+- [yoannfleurydev/gitweb](https://github.com/yoannfleurydev/gitweb) — 在浏览器中打开当前远程存储库.
+- [mme](https://github.com/GoberInfinity/mme) — 命令行工具来记住您有时忘记的命令. 
+- [raftario/licensor](https://github.com/raftario/licensor) — 将许可证写入标准输出
+- [arthrp/quick-skeleton](https://github.com/arthrp/quick-skeleton) — 项目脚手架工具，类似于 Yeoman 和 Slush. 
+- [repoch](https://github.com/lucawen/repoch) — 将纪元转换为日期时间，将日期时间转换为纪元 
+- [whitfin/s3-concat](https://github.com/whitfin/s3-concat) — 使用灵活模式远程连接 Amazon S3 文件的命令行工具.
+- [whitfin/s3-meta](https://github.com/whitfin/s3-meta) — 用于收集有关 Amazon S3 存储桶的元数据的命令行工具.
+- [whitfin/s3-utils](https://github.com/whitfin/s3-utils) — 一个包含基于 Amazon S3 的实用程序的小工具，可提供额外的便利 API.
+- [gorros/s3-edit-rs](https://github.com/gorros/s3-edit-rs) — 直接在 Amazon S3 上编辑文件的命令行工具.
+- [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) — 用 Rust 编写的 tmux-finger 的闪电般快速版本，像 vimium/vimperator 一样复制 / 粘贴 tmux.
+- [amar-laksh/workstation](https://github.com/amar-laksh/workstation) — 一个命令行工具，可帮助您管理工作站，让您远离屏幕、在您不在时锁定屏幕以及使用 OPENCV 进行其他操作！
+- [guoxbin/dtool](https://github.com/guoxbin/dtool) — 一个有用的命令行工具集合，用于协助开发，包括转换、编解码器、散列、加密等.
+- [nomino](https://github.com/yaa110/nomino) — 开发人员批量重命名实用程序 
+- [barberousse](https://github.com/zeapo/barberousse) — AWS Secrets Manager 编辑器 
+- [vamolessa/verco](https://github.com/vamolessa/verco) [[verco](https://crates.io/crates/verco)] — 一个简单的 Git/Hg tui 客户端，专注于键盘快捷键
   
+### 视频
+
+- [Phate6660/rsmpv](https://github.com/Phate6660/rsmpv) — MPV 控制器，需要在 MPV 中启用 IPC.
+- [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger) — ffmpeg 的包装器，可简化多个视频的合并
+- [xiph/rav1e](https://github.com/xiph/rav1e) — 最快、最安全的 AV1 编码器.
+- [yuvadm/slingr](https://github.com/yuvadm/slingr) — 一个简单的 CLI，用于通过本地网络将媒体文件流式传输到 UPnP 媒体渲染器
+- [yuvadm/streamlib](https://github.com/streamlib/streamlib) — 从命令行播放您最喜欢的实时视频和音频流
+
+### 虚拟化技术
+
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) — 用于容器工作负载的轻量级虚拟机 [Firecracker Microvm](https://firecracker-microvm.github.io/)
+- [oracle/railcar](https://github.com/oracle/railcar) — Rust 中类似 Docker 的容器 OCI 运行时实现
+- [tailhook/vagga](https://github.com/tailhook/vagga) — 一个没有守护进程的容器化工具
+
+### Web
+
+- [Plume-org/Plume](https://github.com/Plume-org/Plume) — ActivityPub 联合博客应用程序
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) — 联邦宇宙的链接聚合器 / reddit 克隆
+
+### Web Servers
+
+- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) — 极快的静态 Web 服务器，在单个二进制文件中具有路由、模板和安全性，您可以使用零代码进行设置 
+- [thecoshman/http](https://github.com/thecoshman/http) — 请托管这些东西 — 一个基本的 http 服务器，用于快速简单地托管文件夹 
+- [svenstaro/miniserve](https://github.com/svenstaro/miniserve) — 一个小型的、自包含的跨平台 CLI 工具，允许您只获取二进制文件并通过 HTTP 提供一些文件
+- [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) — 简单的静态 http 服务器
+- [wyhaya/see](https://github.com/wyhaya/see) — 静态 HTTP 文件服务器
+- [ronanyeah/rust-hasura](https://github.com/ronanyeah/rust-hasura) — Rust GraphQL 服务器如何用作远程模式的演示 [Hasura](https://hasura.io/) 
+  
+## 开发工具
+  
+- [clippy](https://crates.io/crates/clippy)
+- [clog-tool/clog-cli](https://github.com/clog-tool/clog-cli) — 从 git 元数据生成变更日志 ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html)) 
+- [dan-t/rusty-tags](https://github.com/dan-t/rusty-tags) — 为货物项目及其所有依赖项创建 ctags/etags 
+- [datanymizer/datanymizer](https://github.com/datanymizer/datanymizer) - 强大的数据库匿名器，具有灵活的规则
+- [delta](https://crates.io/crates/git-delta) — git 和 diff 输出的语法高亮器
+- [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) — 用于 `.env` 文件的 Linter[frewsxcv/crate-deps](https://github.com/frewsxcv/crate-deps) — 为 crates.io 上托管的 crate 生成依赖图的图像
+- [geiger](https://github.com/rust-secure-code/cargo-geiger) — 一个程序，列出与在 Rust crate 及其所有依赖项中使用不安全 Rust 代码相关的统计信息m/cargo-geiger/cargo-geiger/_build/latest?definitionId=1&branchName=master)
+- [git-journal](https://github.com/saschagrunert/git-journal/) — Git 提交消息和变更日志生成框架 
+- [gstats](https://github.com/boonshift/gstats/) — 用于打印当前目录下所有 git 存储库的开发人员方便摘要的命令行工具
+- [rust-lang/rustfix](https://github.com/rust-lang/rustfix) — 自动应用 rustc 提出的建议
+- [just](https://github.com/casey/just) — 用于特定项目任务的便捷命令运行器
+- [mask](https://github.com/jakedeichert/mask) — 由一个简单的 Markdown 文件定义的 CLI 任务运行器
+- [Module Linker](https://github.com/fiatjaf/module-linker) —在 GitHub 的 `mod`、`use` 和 `extern crate` 语句中添加 `<a>` 链接到引用的扩展.
+- [ptags](https://github.com/dalance/ptags) — git 存储库的并行通用 ctags 包装器 
+- [Racer](https://github.com/racer-rust/racer) — Rust 的代码完成 
+- [rustfmt](https://github.com/rust-lang/rustfmt) — Rust 代码格式化程序
+- [Rustup](https://github.com/rust-lang/rustup) — Rust 工具链安装程序 
+- [Rust Language Server](https://github.com/rust-lang/rls) — 在后台运行的服务器，为 IDE、编辑器和其他工具提供有关 Rust 程序的信息
+- [Rust Regex Playground](https://2fd.github.io/rust-regex-playground/#method=find&regex=\w%2B&text=abc) — 评估 Rust 正则表达式的 Web 工具
+- [Rust Search Extension](https://github.com/huhu/rust-search-extension) — 一个方便的浏览器扩展，用于在地址栏（多功能框）中搜索 crate 和文档. 
+- [artifact](https://github.com/vitiral/artifact) — 为开发人员制作的设计文档工具 
+- [semantic-rs](https://github.com/semantic-rs/semantic-rs) — 自动 crate 发布
+- [fw](https://github.com/brocode/fw) — 工作空间生产力助推器 
+- [tinyrick](https://github.com/mcandre/tinyrick) 一个基本的任务依赖工具，强调 Rust 功能而不是原始 shell 命令.
+- [scriptisto](https://github.com/igor-petruk/scriptisto) 一种与语言无关的 “shebang 解释器”，它使您能够用编译语言编写一个文件脚本.
 
 # ✈ 杂货铺
   
