@@ -697,12 +697,18 @@ Rust Linz 2021 |
 - [fw](https://github.com/brocode/fw) — 工作空间生产力助推器 
 - [tinyrick](https://github.com/mcandre/tinyrick) 一个基本的任务依赖工具，强调 Rust 功能而不是原始 shell 命令.
 - [scriptisto](https://github.com/igor-petruk/scriptisto) 一种与语言无关的 “shebang 解释器”，它使您能够用编译语言编写一个文件脚本.
-
-
-  
-  
+ 
   
 # 🐂 大牛语录
+  
+### Matthieum:
+  
+“Rust 使编写正确且可读的代码变得更容易，同时获得两者并非巧合。
+
+所有权/借用机制（对生命周期、别名和可变性的严格控制）在生成的软件的数据流中强制执行某种简单性，您可以在其他编程语言中获得这种简单性，但通常不会，因为该语言更宽松你得到了一个更复杂的流程。
+
+你是否曾经在 Java 中调试过 ConcurrentModificationException？当您修改正在迭代的容器时会发生这种情况。当您有一系列回调/观察者时，意外地有导致此异常的循环引用非常容易。在 Rust 中，要解决这种情况，你必须使用 RefCell 或等价物，它应该让您停下来。”
+
 
 ## 联系专栏
 
