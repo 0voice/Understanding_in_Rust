@@ -293,6 +293,25 @@ WebAssembly 不仅仅是一项革命性的新技术。它正在重塑我们为 W
 - [Rust Edition Guide](https://doc.rust-lang.org/nightly/edition-guide/introduction.html): Rust 版本指南，传递 Rust 不同版本之间大的变更信息
 - [Command line apps in Rust](https://rust-lang-nursery.github.io/cli-wg/#command-line-apps-in-rust): 在Rust中编写命令行程序
   
+# ✈ 杂货铺
+  
+- Rust 最大中文社区论坛：https://rustcc.cn/
+- 小众中文社区的翻译资料/论坛：https://learnku.com/rust
+- 2021 年去哪学 Rust：https://loige.co/where-to-go-to-learn-rust-in-2021/
+- Rust Cheat Sheet（Rust语法备忘单）：https://cheats.rs/
+- Rust 中文书架与资讯：https://budshome.com/ | https://blog.budshome.com/
+- 简要而基础的 Rust 知识（适合在 Rust Book 阶段当作补充材料）：https://learning-rust.github.io/
+- 微软发布的 Rust 新手教程：https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
+- Rust-leetcodes刷题：https://stevenbai.top/rust-leetcode/
+- Rust by Example 通过例子学 Rust：https://doc.rust-lang.org/rust-by-example/index.html
+- 电子书下载 ：https://jp1lib.org/s/Rust
+- Rust线下全球会议：
+  - RustConf: https://rustconf.com/
+  - Rust Belt Rust: https://rust-belt-rust.com/
+  - RustFest: https://blog.rustfest.eu/
+  - Rust Latam: https://rustcon.asia/
+  - RustCon Asia: https://rustcon.asia/
+  
 # 💽 视频
   
 Rust 验证研讨会 2021 | 
@@ -679,24 +698,7 @@ Rust Linz 2021 |
 - [tinyrick](https://github.com/mcandre/tinyrick) 一个基本的任务依赖工具，强调 Rust 功能而不是原始 shell 命令.
 - [scriptisto](https://github.com/igor-petruk/scriptisto) 一种与语言无关的 “shebang 解释器”，它使您能够用编译语言编写一个文件脚本.
 
-# ✈ 杂货铺
-  
-- Rust 最大中文社区论坛：https://rustcc.cn/
-- 小众中文社区的翻译资料/论坛：https://learnku.com/rust
-- 2021 年去哪学 Rust：https://loige.co/where-to-go-to-learn-rust-in-2021/
-- Rust Cheat Sheet（Rust语法备忘单）：https://cheats.rs/
-- Rust 中文书架与资讯：https://budshome.com/ | https://blog.budshome.com/
-- 简要而基础的 Rust 知识（适合在 Rust Book 阶段当作补充材料）：https://learning-rust.github.io/
-- 微软发布的 Rust 新手教程：https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
-- Rust-leetcodes刷题：https://stevenbai.top/rust-leetcode/
-- Rust by Example 通过例子学 Rust：https://doc.rust-lang.org/rust-by-example/index.html
-- 电子书下载 ：https://jp1lib.org/s/Rust
-- Rust线下全球会议：
-  - RustConf: https://rustconf.com/
-  - Rust Belt Rust: https://rust-belt-rust.com/
-  - RustFest: https://blog.rustfest.eu/
-  - Rust Latam: https://rustcon.asia/
-  - RustCon Asia: https://rustcon.asia/
+
   
   
   
