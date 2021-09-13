@@ -279,6 +279,7 @@ WebAssembly 不仅仅是一项革命性的新技术。它正在重塑我们为 W
   
 - [理解 Rust 的生命周期](https://github.com/0voice/Understanding_in_Rust/blob/main/%E6%96%87%E7%AB%A0/%E7%90%86%E8%A7%A3%20Rust%20%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)
 - [高德技术 | 基于Rust的Android Native内存分析方案](https://github.com/0voice/Understanding_in_Rust/blob/main/%E6%96%87%E7%AB%A0/%E5%9F%BA%E4%BA%8ERust%E7%9A%84Android%20Native%E5%86%85%E5%AD%98%E5%88%86%E6%9E%90%E6%96%B9%E6%A1%88.md)
+- [Rust 与 C++：深入的语言比较](https://github.com/0voice/Understanding_in_Rust/blob/main/%E6%96%87%E7%AB%A0/Rust%20%E4%B8%8E%20C%2B%2B%EF%BC%9A%E6%B7%B1%E5%85%A5%E7%9A%84%E8%AF%AD%E8%A8%80%E6%AF%94%E8%BE%83.md)
   
 # 📰 官方文档
   
