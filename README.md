@@ -298,6 +298,7 @@ WebAssembly 不仅仅是一项革命性的新技术。它正在重塑我们为 W
   
 - Rust 最大中文社区论坛：https://rustcc.cn/
 - 小众中文社区的翻译资料/论坛：https://learnku.com/rust
+- Rust在线编辑器: https://play.rust-lang.org/
 - 2021 年去哪学 Rust：https://loige.co/where-to-go-to-learn-rust-in-2021/
 - Rust Cheat Sheet（Rust语法备忘单）：https://cheats.rs/
 - Rust 中文书架与资讯：https://budshome.com/ | https://blog.budshome.com/
