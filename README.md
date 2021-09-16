@@ -804,6 +804,74 @@ Rust Linz 2021 |
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) — 一个促进 wasm 模块和 JS 之间高级交互的项目. 
 - [rhysd/wain](https://github.com/rhysd/wain) - wain：在 Safe Rust 中从零开始的 WebAssembly 解释器，零依赖 
   
+### IDEs
+
+也可以看看 [Are we (I)DE yet?](https://areweideyet.com/) 和 [Rust Tools](https://www.rust-lang.org/tools).
+
+- Atom
+
+  - [zargony/atom-language-rust](https://github.com/zargony/atom-language-rust)
+  - [rust-lang/atom-ide-rust](https://github.com/rust-lang/atom-ide-rust) — Rust IDE 对 Atom 的支持，由 Rust 语言服务器 (RLS) 提供支持
+
+- Eclipse
+
+  - [Eclipse Corrosion](https://github.com/eclipse/corrosion)
+  - [RustDT](https://github.com/RustDT/RustDT) 
+
+- Emacs
+
+  - [rust-mode](https://github.com/rust-lang/rust-mode) — Rust 主要模式
+  - [rustic](https://github.com/brotzeit/rustic) - Emacs 的 Rust 开发环境 
+  - [flycheck-rust](https://github.com/flycheck/flycheck-rust) — Rust 支持 [Flycheck](https://github.com/flycheck/flycheck)
+  - [emacs-racer](https://github.com/racer-rust/emacs-racer) — 自动完成（另见 [company](https://company-mode.github.io/) 和 [auto-complete](https://github.com/auto-complete/auto-complete))
+
+- [gitpod.io](https://gitpod.io/) — 基于 Rust 语言服务器的具有完整 Rust 支持的在线 IDE
+
+- [gnome-builder](https://wiki.gnome.org/Apps/Builder) 自版本 3.22.2 起原生支持 Rust 和 Cargo
+
+- Kakoune
+
+  - [kak-lsp/kak-lsp](https://github.com/kak-lsp/kak-lsp/) — [LSP](https://microsoft.github.io/language-server-protocol/) 客户. 在 Rust 中实现并支持 rls 开箱即用.
+
+- NetBeans
+
+  - [drrb/rust-netbeans](https://github.com/drrb/rust-netbeans)
+
+- IntelliJ
+
+  - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) 
+  - [intellij-rust/intellij-toml](https://github.com/intellij-rust/intellij-toml) — 基本的 Toml 支持
+
+- [Ride](https://github.com/madeso/ride)
+
+- [SolidOak](https://github.com/oakes/SolidOak) — 一个简单的 Rust IDE，基于 GTK+ 和 [Neovim](https://github.com/neovim/neovim)
+
+- Sublime Text
+
+  - [rust-lang/rust-enhanced](https://github.com/rust-lang/rust-enhanced) — 官方 Rust 包
+  - [sublimehq/packages](https://github.com/sublimehq/Packages/tree/master/Rust) — 原生 Sublime 支持（已安装）
+
+- Vim
+
+  — 无处不在的文本编辑器
+
+  - [rust.vim](https://github.com/rust-lang/rust.vim) — 提供文件检测、语法高亮、格式化、Syntastic 集成等.
+  - [vim-cargo](https://github.com/timonv/vim-cargo) — 命令绑定以从 vim 快速运行货物.
+  - [vim-racer](https://github.com/racer-rust/vim-racer) — 允许 vim 使用 [Racer](https://github.com/racer-rust/racer) 用于 Rust 代码完成和导航.
+  - [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) — [LSP](https://microsoft.github.io/language-server-protocol/) 客户. 在 Rust 中实现并支持 rls 开箱即用
+
+- 视觉工作室
+
+  - [PistonDevelopers/VisualRust](https://github.com/PistonDevelopers/VisualRust) — Rust 的 Visual Studio 扩展
+  - [dgriffen/rls-vs2017](https://github.com/ZoeyR/rls-vs2017) — 对 Visual Studio 2017 预览版的 Rust 支持
+
+- Visual Studio Code
+
+  - [rust-lang/rls-vscode](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) — 对 Visual Studio Code 的 Rust 支持
+  - [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer) — RLS 的替代 Rust 语言服务器
+  - [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) — 一个 LLDB 扩展
+  - [crates](https://github.com/serayuzgur/crates) — crates 是 crates.io 依赖项的扩展. 
+  
 # 🐂 大牛语录
   
 ### Matthieum:
