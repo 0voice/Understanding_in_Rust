@@ -700,6 +700,109 @@ Rust Linz 2021 |
 - [tinyrick](https://github.com/mcandre/tinyrick) 一个基本的任务依赖工具，强调 Rust 功能而不是原始 shell 命令.
 - [scriptisto](https://github.com/igor-petruk/scriptisto) 一种与语言无关的 “shebang 解释器”，它使您能够用编译语言编写一个文件脚本.
  
+### 系统编译
+
+- [Cargo](https://crates.io/) — Rust 包管理器
+- [cargo-benchcmp](https://crates.io/crates/cargo-benchcmp) — 比较 Rust 微基准的实用程序 
+- [cargo-bitbake](https://crates.io/crates/cargo-bitbake) — 一个货物扩展，可以利用 meta-rust 中的类生成 BitBake 配方
+- [cargo-cache](https://crates.io/crates/cargo-cache) - 检查 / 管理 / 清理你的货物缓存（`~/.cargo/`/`${CARGO_HOME}`），打印尺寸等
+- [cargo-check](https://crates.io/crates/cargo-check) — `cargo rustc -- -Zno-trans` 的包装器，如果您只需要正确性检查，它可以帮助运行更快的编译
+- [cargo-count](https://crates.io/crates/cargo-count) — 列出有关货物项目的源代码计数和详细信息，包括不安全统计数据
+- [cargo-deb](https://crates.io/crates/cargo-deb) — 生成二进制 Debian 软件包
+- [cargo-deps](https://crates.io/crates/cargo-deps) — 构建 Rust 项目的依赖图
+- [cargo-do](https://crates.io/crates/cargo-do) — 连续运行多个货物命令 
+- [cargo-ebuild](https://crates.io/crates/cargo-ebuild) — 可以使用树内 eclasses 生成 ebuild 的货物扩展
+- [cargo-edit](https://crates.io/crates/cargo-edit) — 允许您通过从命令行读取 / 写入 Cargo.toml 文件来添加和列出依赖项
+- [cargo-generate](https://github.com/cargo-generate/cargo-generate) 通过利用预先存在的 git 存储库作为模板来生成 Rust 项目.
+- [cargo-get](https://crates.io/crates/cargo-get) - Cargo 插件可以轻松地从 Cargo.toml 文件中查询信息 
+- [cargo-graph](https://crates.io/crates/cargo-graph) — 更新了具有附加功能的 `cargo-dot` 分支. 未维护，请参阅`cargo-deps` 
+- [cargo-info](https://crates.io/crates/cargo-info) — 从命令行查询 crates.io 以获取 crates 详细信息 
+- [cargo-license](https://crates.io/crates/cargo-license) — 一个货物子命令，用于快速查看所有依赖项的许可证.
+- [cargo-make](https://crates.io/crates/cargo-make) — Rust 任务运行器和构建工具. 
+- [cargo-modules](https://crates.io/crates/cargo-modules) — 一个货物插件，用于显示板条箱模块的树状概览. 
+- [cargo-multi](https://crates.io/crates/cargo-multi) — 在多个板条箱上运行指定的货物命令
+- [cargo-outdated](https://crates.io/crates/cargo-outdated) — 在新版本的 Rust 依赖项可用或过时时显示
+- [cargo-release](https://crates.io/crates/cargo-release) — 用于发布 git 管理的货物项目、构建、标记、发布、文档和推送的工具 
+- [cargo-script](https://crates.io/crates/cargo-script) — 让人们快速、轻松地运行 Rust “脚本”，它可以利用 Cargo 的包生态系统
+- [cargo-testify](https://crates.io/crates/cargo-testify) — 监视文件更改、运行测试并通过友好的操作系统通知通知结果
+- [cargo-tree](https://github.com/sfackler/cargo-tree) – Cargo 子命令，以树状格式可视化 crate 的依赖关系图
+- [cargo-update](https://crates.io/crates/cargo-update) — 用于检查和应用更新已安装的可执行文件的货物子命令 
+- [cargo-watch](https://crates.io/crates/cargo-watch) — 货物在源更改时编译项目的实用程序
+- [liuchong/cargo-x](https://github.com/liuchong/cargo-x) ——一个非常简单的第三方 cargo 子命令来执行自定义命令
+- [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) — 扩展源代码中的宏
+- [Devolutions/CMakeRust](https://github.com/Devolutions/CMakeRust) — 用于将 Rust 库集成到 CMake 项目中
+- [SiegeLord/RustCMake](https://github.com/SiegeLord/RustCMake) — 一个示例项目，展示了 CMake 与 Rust 的使用 
+- [icepuma/rust-action](https://github.com/icepuma/rust-action) ——Rust github 动作
+- [peaceiris/actions-mdbook](https://github.com/peaceiris/actions-mdbook) — mdBook 的 GitHub 操作
+- GitHub 网络钩子
+- [snare](https://tratt.net/laurie/src/snare/) — GitHub webhooks 运行器守护进程
+- 网络包
+- [mxseev/rust-loader](https://github.com/mxseev/rust-loader) — Webpack Rust 加载器 (wasm)
+
+### 调试
+
+- [rust-gdb](https://github.com/rust-lang/rust/blob/master/src/etc/rust-gdb)
+- [gdbgui](https://github.com/cs01/gdbgui) — 基于浏览器的 gdb 前端，用于调试 C、C++、Rust 和 Go.
+- [lldb_batchmode.py](https://github.com/rust-lang/rust/blob/master/src/etc/lldb_batchmode.py) — 允许以类似于 GDB 的批处理模式的方式使用 LLDB.
+- [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) — 一个 LLDB 扩展 [Visual Studio Code](https://code.visualstudio.com/).
+
+### 部署
+
+- [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) — 用于使用 musl-libc 和 musl-gcc 编译静态 Rust 二进制文件的 Docker 映像，以及有用的 C 库的静态版本
+- [kpcyrd/mini-docker-rust](https://github.com/kpcyrd/mini-docker-rust) — 一个非常小的 Rust docker 镜像的示例项目 
+- [liuchong/docker-rustup](https://github.com/liuchong/docker-rustup) — 多版本（使用 musl 工具）Rust Docker 镜像
+- [messense/rust-musl-cross](https://github.com/messense/rust-musl-cross) — 使用 musl-cross 编译静态 Rust 二进制文件的 Docker 镜像 
+- [rust-lang-nursery/docker-rust](https://github.com/rust-lang/docker-rust) — 官方 Rust Docker 镜像
+- [wasm-template-rust](https://github.com/sn99/wasm-template-rust) — Rust 发布到 gh-pages 的 wasm 模板，无需 npm-deploy 
+- [DenisKolodin/rust-app-engine](https://github.com/DenisKolodin/rust-app-engine) — App Engine Rust 样板
+- [emk/heroku-buildpack-rust](https://github.com/emk/heroku-buildpack-rust) — Heroku 上的 Rust 应用程序构建包
+
+### 嵌入式
+
+- [japaric/rust-cross](https://github.com/japaric/rust-cross) ——关于交叉编译 Rust 程序你需要知道的一切
+- [japaric/xargo](https://github.com/japaric/xargo) — 轻松地将 Rust 程序交叉编译到自定义的裸机目标，如 ARM Cortex-M
+- [Ogeon/rust-on-raspberry-pi](https://github.com/Ogeon/rust-on-raspberry-pi) — 有关如何为 Raspberry Pi 交叉编译 Rust 项目的说明. * 阿杜诺
+- [avr-rust/ruduino](https://github.com/avr-rust/ruduino) `t Arduino Uno 的可重用组件.
+
+### FFI
+
+也可以看看 [Foreign Function Interface](https://doc.rust-lang.org/book/first-edition/ffi.html), [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/) （使用其他语言用 Rust 编写的代码的示例集合）和 [FFI examples written in Rust](https://github.com/alexcrichton/rust-ffi-examples).
+
+- [rlhunt/cbindgen](https://github.com/eqrion/cbindgen) — 从 Rust 源文件生成 C 头文件. 在 Gecko 中用于 WebRender 
+- [Sean1708/rusty-cheddar](https://github.com/Sean1708/rusty-cheddar) — 从 Rust 源文件生成 C 头文件
+- [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) — Rust 绑定生成器
+- [dtolnay/cxx](https://github.com/dtolnay/cxx) — Rust 和 C++ 之间的安全互操作
+- [rust-cpp](https://crates.io/crates/cpp) - 直接在 Rust 中嵌入 C++ 代码
+- [rusterlium/rustler](https://github.com/rusterlium/rustler) — 用于创建 Erlang NIF 函数的安全 Rust 桥 
+- [mgattozzi/curryrs](https://github.com/mgattozzi/curryrs) — 弥合 Haskell 和 Rust 之间的差距
+- [mgattozzi/haskellrs](https://github.com/mgattozzi/haskellrs) — Haskell FFI 示例中的 Rust
+- [mgattozzi/rushs](https://github.com/mgattozzi/rushs) — Rust FFI 示例中的 Haskell
+- [j4rs](https://crates.io/crates/j4rs) — 使用 Rust 中的 Java 
+- [bennettanderson/rjni](https://github.com/benanders/rjni) — 使用 Rust 中的 Java
+- [drrb/java-rust-example](https://github.com/drrb/java-rust-example) — 使用 Java 中的 Rust
+- [jni](https://crates.io/crates/jni) — 使用 Java 中的 Rust
+- [jni-sys](https://crates.io/crates/jni-sys) — 对应于 jni.h 的 Rust 定义 
+- [rucaja](https://crates.io/crates/rucaja) — 使用 Rust 中的 Java 
+- [rawrafox/rust-jdbc](https://github.com/rawrafox/rust-jdbc) — 使用来自 Rust 的 JDBC
+- [jcmoyer/rust-lua53](https://github.com/jcmoyer/rust-lua53) — 用于 Rust 的 Lua 5.3 绑定
+- [lilyball/rust-lua](https://github.com/lilyball/rust-lua) — Safe Rust bindings to Lua 5.1
+- [tickbh/td_rlua](https://github.com/tickbh/td_rlua) — Rust 的零成本高级 lua 5.3 包装器
+- [tomaka/hlua](https://github.com/tomaka/hlua) - 与 Lua 交互的 Rust 库 
+- [anima-engine/mrusty](https://github.com/anima-engine/mrusty) — Rust 的 mruby 安全绑定
+- [neon-bindings/neon](https://github.com/neon-bindings/neon) — Rust 绑定，用于编写安全且快速的原生 Node.js 模块
+- [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen) - 使用 Rust 生成 nodejs 模块的简单方法 * 目标 - C
+- [SSheldon/rust-objc](https://github.com/SSheldon/rust-objc) — Rust 的 Objective-C 运行时绑定和包装器
+- [vickenty/mi-rust](https://github.com/vickenty/mi-rust) — 添加对 M::I 的支持，以使用 Cargo 构建模块
+- [vickenty/perl-xs](https://github.com/vickenty/perl-xs) — 使用 Rust 创建 Perl XS 模块 
+- [getsentry/milksnake](https://github.com/getsentry/milksnake) — python setuptools 的扩展，它允许您以可想象的最便携的方式在 Python 轮子中分发动态链接库.
+- [dgrunwald/rust-cpython](https://github.com/dgrunwald/rust-cpython) — Python 绑定
+- [PyO3/PyO3](https://github.com/PyO3/PyO3) — Python 解释器的 Rust 绑定 
+- [d-unseductable/ruru](https://github.com/d-unseductable/ruru) — 用 Rust 编写的原生 Ruby 扩展 
+- [danielpclark/rutie](https://github.com/danielpclark/rutie) — 用 Rust 编写的原生 Ruby 扩展，反之亦然 
+- [tildeio/helix](https://github.com/tildeio/helix) — 用 Rust 编写 Ruby 类 
+- [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) —   打包 wasm 并发布到 npm！
+- [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) — 一个促进 wasm 模块和 JS 之间高级交互的项目. 
+- [rhysd/wain](https://github.com/rhysd/wain) - wain：在 Safe Rust 中从零开始的 WebAssembly 解释器，零依赖 
   
 # 🐂 大牛语录
   
