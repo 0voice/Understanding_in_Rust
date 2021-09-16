@@ -872,6 +872,61 @@ Rust Linz 2021 |
   - [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) — 一个 LLDB 扩展
   - [crates](https://github.com/serayuzgur/crates) — crates 是 crates.io 依赖项的扩展. 
   
+### 图像识别
+
+- [sfikas/rusteval](https://github.com/sfikas/rusteval) — 用于评估检索算法输出的工具 
+
+### 分析
+
+- [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) — 统计驱动的 Rust 基准测试库
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) — 命令行基准测试工具 
+- [performancecopilot/hornet](https://github.com/performancecopilot/hornet) — Performance Co-Pilot 内存映射值检测库 
+- [koute/memory-profiler](https://github.com/koute/memory-profiler) — Linux 的内存分析器 
+- [ellisonch/rust-stopwatch](https://github.com/ellisonch/rust-stopwatch) — 一个秒表库 
+- [mrhooray/torch](https://github.com/mrhooray/torch) — 根据 DWARF 调试信息生成 FlameGraphs
+- [llogiq/flame](https://github.com/llogiq/flame) 
+
+### Services
+
+- [deps.rs](https://github.com/deps-rs/deps.rs) — 检测过时或不安全的依赖项
+- [docs.rs](https://docs.rs/) — 自动生成 crate 文档
+  
+### 静态分析
+
+- [facebookexperimental/MIRAI](https://github.com/facebookexperimental/mirai) — 一个在 Rust 的中级中间表示 (MIR) 上运行的抽象解释器
+- [static_assertions](https://crates.io/crates/static_assertions) — 编译时断言以确保满足不变量 
+
+### 测试
+
+- [laboratory](https://crates.io/crates/laboratory) — 一个简单、富有表现力的 Rust 单元测试框架 
+- [cucumber-rust](https://crates.io/crates/cucumber-rust) — Rust 的 Cucumber 测试框架的实现.
+- [demonstrate](https://crates.io/crates/demonstrate) — 声明式测试框架 
+- [httpmock](https://github.com/alexliesenfeld/httpmock) — HTTP 模拟 
+- [mockiato](https://crates.io/crates/mockiato) — 一个严格但友好的 Rust 2018 模拟库
+- [mutagen](https://crates.io/crates/mutagen) — 一个源级变异测试框架（仅限每晚）
+- [AlKass/polish](https://github.com/AlKass/polish) — 迷你测试 / 测试驱动框架 
+- [proptest](https://crates.io/crates/proptest) — 受启发的属性测试框架 [Hypothesis](https://hypothesis.works/) Python 框架
+- [quickcheck](https://crates.io/crates/quickcheck) — 一个 Rust 实现 [QuickCheck](https://wiki.haskell.org/Introduction_to_QuickCheck1) 
+- [mockito](https://crates.io/crates/mockito) — HTTP 模拟 
+- [speculate](https://crates.io/crates/speculate) — 一个 RSpec 启发了 Rust 的最小测试框架
+- [rstest](https://crates.io/crates/rstest) — Rust 的基于夹具的测试框架
+- [ruspec](https://crates.io/crates/ruspec) — 像 Rspec 测试框架一样用 Rust 编写 
+- [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs) — 一个 Rust 模糊器，使用 [AFL](https://lcamtuf.coredump.cx/afl/) 
+- [tarpaulin](https://crates.io/crates/cargo-tarpaulin) — 为 Rust 设计的代码覆盖率工具 
+- [trust](https://github.com/japaric/trust) — Travis CI 和 AppVeyor 模板，用于在 5 种架构上测试您的 Rust crate 并发布其适用于 Linux、macOS 和 Windows 的二进制版本
+- [fake-rs](https://github.com/cksac/fake-rs) — 生成假数据的库 
+- [goldenfile](https://github.com/calder/rust-goldenfile) - 一个为 Goldenfile 测试提供简单 API 的库.
+- [cargo-dinghy](https://crates.io/crates/cargo-dinghy/) - 简化在智能手机和其他小型处理器设备上运行库测试和工作台的货物扩展.
+
+### 翻译器
+
+- [immunant/c2rust](https://github.com/immunant/c2rust) — 在 Clang/LLVM 之上构建的 C 到 Rust 翻译器和交叉检查器. 
+- [jameysharp/corrode](https://github.com/jameysharp/corrode) — 用 Haskell 编写的 AC 到 Rust 翻译器.
+
+## 收集系统信息
+
+- [Phate6660/nixinfo](https://github.com/Phate6660/nixinfo) [[crate](https://crates.io/crates/nixinfo)] — 一个用于收集系统信息（如 CPU、发行版、环境、内核等）的 lib crate.
+  
 # 🐂 大牛语录
   
 ### Matthieum:
