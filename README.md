@@ -560,6 +560,7 @@ Rust Linz 2021 |
 - [mmstick/fontfinder](https://github.com/mmstick/fontfinder) — 用于预览和安装 Google 字体的 GTK3 应用程序
 - [mmstick/parallel](https://github.com/mmstick/parallel) — 重新实现 GNU Parallel
 - [mmstick/tv-renamer](https://github.com/mmstick/tv-renamer) — 带有可选 GTK3 前端的电视剧重命名应用程序. 
+- [nushell/nushell](https://github.com/nushell/nushell) — 一个新型Shell. 
 - [organize-rt](https://gitlab.com/FixFromDarkness/organize-rt) — 根据正则表达式规则组织文件（默认为文件扩展名）.
 - [orhun/kmon](https://github.com/orhun/kmon) — Linux 内核管理器和活动监视器 
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) — 一个 ls 有很多漂亮的颜色和很棒的图标 
@@ -625,6 +626,7 @@ Rust Linz 2021 |
 - [vamolessa/copycat](https://github.com/vamolessa/copycat) [[copycat](https://crates.io/crates/copycat)] — 一个简单的剪贴板 cli 界面，适用于具有文本和 bmp 支持的窗口
 - [evansmurithi/cloak](https://github.com/evansmurithi/cloak) — 命令行 OTP（一次性密码）身份验证器应用程序. 
 - [replydev/cotp](https://github.com/replydev/cotp) - 与外部备份兼容的值得信赖的加密一次性密码验证器应用程序. 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - 远程桌面应用程序. 
 - [arthrp/consoletimer](https://github.com/arthrp/consoleTimer) — 终端的简单计时器.
 - [tversteeg/emplace](https://github.com/tversteeg/emplace) — 在多台机器上同步已安装的包
 - [unrelentingtech/freepass](https://github.com/unrelentingtech/freepass) — 高级用户的免费密码管理器.
